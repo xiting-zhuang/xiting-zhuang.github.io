@@ -1,7 +1,7 @@
 # Site settings
 title: Xiting Zhuang
 email: xiting.zhuang@uconn.edu
-description: Academic webpage of Xiting Zhuang
+description: Personal Website of Xiting Zhuang
 baseurl: ""
 url: ""
 
@@ -13,8 +13,8 @@ google_tag_manager: GTM-TZ9Z7HZ
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
+    Xiting Zhuang <br/>
+    PhD Candidate <br/>
     <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
     California Institute of Technology
 
