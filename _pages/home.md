@@ -7,6 +7,10 @@ permalink: /
 
 ### Welcome! (Template!!!!)
 
+My name is Xiting Zhuang. I am currently a doctoral candidate in Agricultual and Resource Economics at University of Connecticut working with Dr. Sandro Steinbach. I am also a master student at Georgia Institute of Technology, with specialization in Machine Learning. 
+
+My research interest lies in international trade, supply chain, causal inference. 
+
 New medical devices and therapies stand to improve human health outcomes the world over.
 Though innovating in this space is challenging, predictive simulations provide a promising path forward.
 I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
