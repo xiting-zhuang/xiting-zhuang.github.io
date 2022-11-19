@@ -10,6 +10,7 @@ permalink: /
 My name is Xiting Zhuang. I am currently a doctoral candidate in Agricultual and Resource Economics at University of Connecticut working with Dr. Sandro Steinbach. I am also a master student at Georgia Institute of Technology, with specialization in Machine Learning. 
 
 My research interest lies in international trade, supply chain, causal inference. 
+<!---
 
 New medical devices and therapies stand to improve human health outcomes the world over.
 Though innovating in this space is challenging, predictive simulations provide a promising path forward.
@@ -28,6 +29,7 @@ Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
 </div>
 <br/>
 
+<!---
 ### About me
 
 I am a doctoral candidate at the University of Connecticut, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Sandro Steinbach</a>.
@@ -36,3 +38,4 @@ I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor The
 Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
 I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
 I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
+-->
