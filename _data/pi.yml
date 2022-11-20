@@ -7,8 +7,11 @@
   #researchgate: https://www.researchgate.net/profile/
   scholar: https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en&authuser=1
   cv: Xiting Zhuang - Curriculum Vitae.pdf
-  number_educ: 2
-  education1: (2017-) Ph.D. Agricultural & Resource Economics, <br>University of Connecticut (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Marc Hesse</a>)
-  education2: (2019-) M.S. Computer Science, <br>Georgia Institute of Technology (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
+  number_educ: 3
+  education1: (2017-) Ph.D. Agricultural & Resource Economics, <br>University of Connecticut (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Sandro Steinbach</a>)
+  education2: (2019-2023) M.S. Computer Science, <br>Georgia Institute of Technology (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
+  education3: (2014-2017) M.S. Quantitative Economics, <br>Fuzhou University (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
+
   education1short: (2017-) Ph.D. Agricultural & Resource Economics, UConn
   education2short: (2019-) M.S. Computer Science, Geogia Tech
+  education3short: (2014-2017) M.S. Quantitative Economics, Fuzhou Univ., China
