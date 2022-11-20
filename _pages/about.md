@@ -91,7 +91,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
-<!--
+
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Conference Grants and Funded Short Schools
@@ -102,10 +102,7 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
--->
 
-
-<!--
 {% if site.data.community_engagement %}
 <div class="jumbotron">
 ### Community Engagement
@@ -116,5 +113,3 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
--->
-
