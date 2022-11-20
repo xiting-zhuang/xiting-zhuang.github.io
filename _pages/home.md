@@ -8,7 +8,9 @@ permalink: /
 
 ### Welcome!
 
+I a
 
+ who aspires to become a **computational scientist** and hopes to solve real-world problems with applied economics.
 
  
 
