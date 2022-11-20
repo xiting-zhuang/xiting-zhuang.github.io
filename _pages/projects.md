@@ -139,10 +139,10 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
-<h4>Twitter Webscraper</h4>
+<h4>China Census Trade Data Webscraper</h4>
 
 <b>Developer:</b>
-<i> Mohammad Afzal Shadab</i>
+<i> Xiting Zhuang</i>
 
 Salient features of the Python program (<a href='https://github.com/mashadab/twitterwebscraper' target='_blank'>src</a>):
 

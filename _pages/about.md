@@ -64,6 +64,23 @@ permalink: /about/
 </div>
 {% endfor %}
 
+
+
+{% if site.data.workexp %}
+<div class="jumbotron">
+### Working Experiences
+<ul>
+{% for workexp in site.data.workexp %}
+ <li> {{ workexp.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+
+
+
+
 {% if site.data.awards %}
 <div class="jumbotron">
 ### Honors and Awards
