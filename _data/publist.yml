@@ -1,32 +1,22 @@
 
 
-- title: "Early-Stage Faults Detection using Harmony Search Algorithm and STFT-Based Spectral Kurtosis"
-  authors: "Muhammad Ahsan and Dariusz Bismor"
-  url: https://doi.org/10.1007/978-3-031-03502-9_8
+- title: "Supply Chain Disruptions and Containerized Agricultural Exports From California Ports"
+  authors: "Carter, Colin A., Sandro Steinbach, and Xiting Zhuang"
+  url: https://doi.org/10.1002/aepp.13311
   image: 
-  Conference: "Automation 2022: New Solutions and Technologies for Automation, Robotics and Measurement Techniques, Warsaw, Poland"
+  Conference: " "
   info: 
   year: 2022
-  doi: https://doi.org/10.1007/978-3-031-03502-9_8
-  abstract: The predictive maintenance of rotating machines helps to prevent economic loss and personal damage. Vibrational data of bearing is used to measure the early-stage faults but sometimes this vibrational data consists of many unwanted sig-nals that need to be removed before applying the signal processing techniques. This paper proposes an algorithm to design a dynamic filter that can adjust its bandwidth and central frequency according to different faults that occurs in the rotating bearing. The harmony search algorithm is used to optimize the bandpass filter parameters according to the faults and the short-time Fourier trans-form-based Spectral Kurtosis helps measure the strength of fault frequencies. The filter parameters are selected that correspond to the maximum value of the short-time Fourier transform-based Spectral Kurtosis. The simulation results verify the per-formance of the proposed algorithm."
-  
-- title: "Application of Artificial Intelligence Methods to Signal Enhancement for Predictive Maintenance of Rolling Element Bearings"
-  authors: "Muhammad Ahsan and Dariusz Bismor"
-  url: https://ogpta.pl/index.php/abstracts
+  doi: https://doi.org/10.1002/aepp.13311
+  abstract: We study the trade effects of the 2021 supply chain disruptions on containerized agricultural exports from California ports. Our event studies show that port congestion and container shortages reduced agricultural exports by 22% from May to November 2021. The export losses exceed $3.2 billion and vary substantially across commodity groups, with California tree nut producers facing the brunt of the financial repercussions. California agriculture's losses surpass those from the 2018 China–US trade war by far. The export disruptions mirror the fact that California ports are among the least efficient globally.
+ 
+- title: "A Portrait of Firms that Trade in Meat Products"
+  authors: "Heidi Schweizer, Sandro Steinbach and Xiting Zhuang."
+  url:  
   image: 
-  Conference: "50th Jubilee Winter School on Wave and Quantum Acoustics"
+  Conference: " "
   info: 
   year: 2022
-  doi: https://ogpta.pl/index.php/abstracts
-  abstract: “Every rotating machine consists of rotating element bearings and when a fault occurs in these rotating elements bearing due to any reason, the whole machine suffers."
-
-- title: "Bipartite Containment Control of Multi-Agent Systems"
-  authors: "Muhammad Ahsan and Qian Ma"
-  url: https://doi.org/10.1109/AIM.2019.8868456
-  image: 
-  Conference: "2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, Hong Kong, China"
-  info: 
-  year: 2019
-  doi: https://doi.org/10.1109/AIM.2019.8868456
-  abstract: This paper studies the bipartite containment control for first-order multi-agent systems. Transformation matrix is employed to show that bipartite containment control can be transformed to common containment control problem. It is proven that if the graph is structurally balanced and for every follower, a directed path from a leader exist, then bipartite containment control problem can be solved and the followers of first group achieve the final position within the convex hull formed by the leaders whereas the followers of second group make bipartition within the exact opposite convex hull formed by the leaders. Finally, numerical simulation is given for illustration."
-  
+  doi:  
+  abstract: “ "
+ 
