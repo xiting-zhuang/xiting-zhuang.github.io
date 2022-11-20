@@ -1,14 +1,14 @@
-- name: Muhammad Ahsan
+- name: Xiting Zhuang
   photo: rock.jpg
-  info: PhD Student, University 
-  email: ahsanmuhammad@aol.com
-  github: https://github.com/
-  linkedin: https://www.linkedin.com/in/
+  info: PhD Student, University of Connecticut
+  email: xiting.zhuang@uconn.edu
+  github: https://github.com/xiting-zhuang/
+  linkedin: https://www.linkedin.com/in/xiting-zhuang/
   #researchgate: https://www.researchgate.net/profile/
-  scholar: https://scholar.google.com/
-  cv: cv_ahsan.pdf
+  scholar: https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en&authuser=1
+  cv: Xiting Zhuang - Curriculum Vitae.pdf
   number_educ: 2
-  education1: (2017-20) Master of Control Theory and Control Engineering, <br>Nanjing University of Science and Technology (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Marc Hesse</a>)
-  education2: (2009-14) Bachelor of Electrical Engineering, <br>Air University (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
-  education1short: (2020) Master of Control Theory and Control Engineering, NUST, China
-  education2short: (2014) Bachelor of Electrical Engineering, Air University, Pakistan
+  education1: (2017-) Ph.D. Agricultural & Resource Economics, <br>University of Connecticut (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Marc Hesse</a>)
+  education2: (2019-) M.S. Computer Science, <br>Georgia Institute of Technology (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
+  education1short: (2017-) Ph.D. Agricultural & Resource Economics, UConn
+  education2short: (2019-) M.S. Computer Science, Geogia Tech

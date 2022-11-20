@@ -1,7 +1,7 @@
 # Site settings
-title: Muhammad Ahsan
-email: ahsanmuhammad@aol.com
-description: Academic webpage of Muhammad Ahsan
+title: Xiting Zhuang
+email: xiting.zhuang@uconn.edu
+description: Academic webpage of Xiting Zhuang
 baseurl: ""
 url: ""
 
@@ -11,7 +11,7 @@ google_analytics:
 
 # Footer info
 affiliation: >
-    Muhammad Ahsan<br/>
+    Xiting Zhuang<br/>
     Researcher <br/>
     <a href="https://www.polsl.pl/" target="_blank">Department of Measurements and Control Systems </a><br/> Silesian University of Technology
 
@@ -21,7 +21,7 @@ location: >
   44-100 Gliwice, Poland
 
 contact: >
-    <a href="mailto:ahsanmuhammad@aol.com" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ahsan via email</a> <br/>
+    <a href="mailto:xiting.zhuang@uconn.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Ahsan via email</a> <br/>
     <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
 
 # Pages shown in navbar
