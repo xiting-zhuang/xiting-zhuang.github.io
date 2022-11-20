@@ -7,35 +7,27 @@ permalink: /
 
 ### Welcome!
 
-My name is Xiting Zhuang. I am currently a doctoral candidate in Agricultual and Resource Economics at University of Connecticut working with Dr. Sandro Steinbach. I am also a master student at Georgia Institute of Technology, with specialization in Machine Learning. 
-
-My research interest lies in international trade, supply chain, causal inference. 
-<!---
-
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
-I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+Fluid mechanics spans diverse fields of science and engineering. I am a fluids enthusiast who aspires to become a **computational scientist** and hopes to solve real-world problems with applied mathematics and numerical simulations.
+In the past, I have had the pleasure to work in diverse fields of fluid mechanics and numerical methods such as <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_fifthWENO_CnF_2019.pdf" target="_blank">high order methods</a>, laminar & turbulent combustion, <a href="{{ site.url }}{{ site.baseurl }}/papers/shadab_Scramjet_2017.pdf" target="_blank">hypersonic flows</a>, 
+and <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">viscoelastic fluids</a>.
+Currently, I am investigating multiple fluid flow problems in earth and plantary sciences such as **firn densification due to melt percolation** as a part of the *University of Texas Institute for Geophysics Graduate Student fellowship* 
+and **melt percolation during core formation in planetesimals** through *NASA Emerging World Grant*. I am also collaborating with <a href="https://www.ig.utexas.edu/students/eric-hiatt/" target="_blank">Eric Hiatt</a> from Jackson School of Geosciences to investigate the <a href="https://agu.confex.com/agu/fm20/webprogram/Paper712914.html" target="_blank">post-impact hydrothermal systems on early Mars</a>.
 
 <div class="container">
 <div class="row">
 <center>
-<iframe src="https://player.vimeo.com/video/455688517?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-Transition to chaos of flowing red blood cells. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
+<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
+<br>Filling of impact-formed crater lake on Mars. <br/>
+Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
 </center>
 </div>
 </div>
 <br/>
 
-<!---
 ### About me
 
-I am a doctoral candidate at the University of Connecticut, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Sandro Steinbach</a>.
-I am also a master student at the Georgia Institute of Technology, majoring in Computer Science. 
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
--->
+I am an M.S. and Ph.D. Student in the Oden Institute for Computational Engineering and Sciences at the University of Texas at Austin, working with <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Professor Marc Hesse</a>.
+Since 2020, I have been serving as the President of the <a href="https://siam.oden.utexas.edu" target="_blank">Society of Industrial and Applied Mathematics Chapter at UT Austin</a>.
+Previously, I was a Visiting Graduate Student Researcher at the MIT Fluids Laboratory working with <a href="https://www.mitfluidslab.com/" target="_blank">Professor Irmgard Bischofberger</a>. 
+I hold an M.Phil. degree in Mechanical Engineering from the Hong Kong University of Science and Technology where I worked with <a href="https://www.math.hkust.edu.hk/~makxu/" target="_blank">Professor Kun Xu</a> (2018). 
+Lastly, I hold a B.Tech. degree in Mechanical Engineering from <a href="https://amu.ac.in/" target="_blank">Aligarh Muslim University</a>, India (2016).

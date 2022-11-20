@@ -1,14 +1,18 @@
-- name: Xiting Zhuang
-  photo: spencer_headshot.jpg
-  info: PhD candidate, UConn | Master student, Gatech
-  email: xiting.zhuang@uconn.edu
-  github: https://github.com/xiting-zhuang
-  researchgate: https://www.researchgate.net/profile/Xiting-Zhuang
-  scholar: https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en&oi=ao
-  cv: cv/cv.pdf
-  number_educ: 6
-  education1: (2017- ) PhD student, UConn (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>)
-  education2: (2019-) Master student, Gatech (with <a href="http://sandlab.mit.edu" target="_blank">Themis Sapsis</a>)
-  education1short: (2018- ) Senior Postdoc, Caltech 
-  education2short: (2019) Master student, Gatech
- 
+- name: Mohammad Afzal Shadab
+  photo: rock.jpg
+  info: PhD Student, University of Texas at Austin 
+  email: mashadab@utexas.edu
+  github: https://github.com/mashadab
+  linkedin: https://www.linkedin.com/in/mashadab/
+  #researchgate: https://www.researchgate.net/profile/Mohammad-Afzal-Shadab
+  scholar: https://scholar.google.com.hk/citations?user=-E3HBR0AAAAJ&hl=en
+  cv: cv_afzal.pdf
+  number_educ: 4
+  education1: (2019-) M.S. and Ph.D. Student in Computational Science, Engineering and Mathematics, <br>University of Texas at Austin (with <a href="https://www.jsg.utexas.edu/hesse/" target="_blank">Marc Hesse</a>)
+  education2: (2018-9) Visiting Graduate Student, <br>Massachusetts Institute of Technology (with <a href="https://www.mitfluidslab.com/" target="_blank">Irmgard Bischofberger</a>)
+  education3: (2018) M.Phil. Mechanical Engineering,<br> Hong Kong University of Science & Technology (with <a href="http://www.math.ust.hk/~makxu/" target="_blank">Kun Xu</a>)
+  education4: (2016) B.Tech. Mechanical Engineering<br> Aligarh Muslim University, India
+  education1short: (2019-) M.S. & Ph.D. Comp Sci, Engg & Math, UT Austin 
+  education2short: (2018-9) Visiting Student, MIT 
+  education3short: (2018) M.Phil. Mech Engg, HKUST, Hong Kong
+  education4short: (2016) B.Tech. Mech Engg, AMU, India

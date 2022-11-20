@@ -1,11 +1,29 @@
-- name: Example student name
+- name: Renato Auriemma
   photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+  info: Ph.D. Student, started Oct 2017
+  email: renato.auriemma@polimi.it
+  website: 
   number_educ: 2
-  education1: Postdoc with <a href="w">XYZ</a>, Harvard University
-  education2: Ph.D. with <a href="w">XYZ</a>, X University
+  education1: M.Sc. with <a href="w">Costacuta</a>, Milan
+  education2: B.Sc. with <a href="w">Maradona</a>, Naples
+
+- name: Loic Ronin
+  photo: rock.jpg
+  info: Ph.D. Student, started Oct 2019
+  email: loic.ronin@polimi.it
+  website: 
+  number_educ: 2
+  education1: M.Sc. with <a href="w">Diderot</a>, Paris
+  education2: B.Sc. with <a href="w">Dalambert</a>, Nantes
+  
+- name: Flavio Tollini
+  photo: rock.jpg
+  info: Ph.D. Student, started Oct 2019
+  email: flavio.tollini@polimi.it
+  website: 
+  number_educ: 2
+  education1: M.Sc. with <a href="w">M.Morbidelli</a>, Politecnico di Milano
+  education2: B.Sc. with <a href="w">G.Storti</a>, Politecnico di Milano
 
 
 - name: "This could be you !"

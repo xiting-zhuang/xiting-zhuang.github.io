@@ -1,42 +1,41 @@
 # Site settings
-title: Xiting Zhuang
-email: xiting.zhuang@uconn.edu
-description: Personal Website of Xiting Zhuang
+title: Mohammad Afzal Shadab
+email: mashadab@utexas.edu
+description: Academic webpage of Mohammad Afzal Shadab
 baseurl: ""
 url: ""
 
 
-
+# Google analytics ID: Remove or use your own!
+google_analytics:
 
 # Footer info
 affiliation: >
-    Xiting Zhuang <br/>
-    PhD Candidate <br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    University of Connecticut
+    Mohammad Afzal Shadab<br/>
+    Doctoral Student <br/>
+    <a href="https://www.oden.utexas.edu/" target="_blank">Institute for Computational Engineering and Sciences </a><br/> University of Texas at Austin
 
-    Xiting Zhuang <br/>
-    PhD Candidate <br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    University of Connecticut
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  University of Connecticut <br/>
-  1376 Storrs Road  Storrs, CT 06269  
+  <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Geological Fluid Mechanics Group, UT Austin</a><br/>
+  POB 3SEo5M <br/>
+  Austin, TX 78712-1199
 
 contact: >
-    <a href="mailto:xiting.zhuang@uconn.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:mashadab@utexas.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Afzal via email</a> <br/>
+    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
   - name: talks
-  - name: research
-  - name: software
-# - name: team
- - name: teaching
+  - name: projects
+#  - name: laboratory
+#  - name: team
+  - name: teaching
+
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
 
 include:
   - .htaccess
@@ -61,39 +60,10 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-
-plugins: ['jekyll/scholar']
-
-scholar:
-
-  last_name: Bryngelson
-  first_name: [Spencer H.]
-
-  style: shb
-  locale: en
-
-  source: /cv/
-  bibliography: ref.bib
-  bibliography_template: bibtemplate
-  sort_by: year, month
-  order: descending
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
-  bibliography_list_attributes:
-    reversed: "reversed"
-
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
   - update_boostrap.sh
   - switch_theme.sh
-  - tags
-  - Rakefile
+  - makebib.py

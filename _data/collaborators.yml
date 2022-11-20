@@ -1,35 +1,20 @@
-- name: Professor Daniel Bodony 
-  title: Aerospace, University of Illinois
-  url: "http://acoustics.ae.illinois.edu/"
+- name: Professor Massimo Morbidelli
+  title: Full Professor Politecnico di Milano
+  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/morbidelli-massimo/"
 
-- name: Professor Tim Colonius
-  title: Computational Flow Physics, Caltech
-  url: "http://colonius.caltech.edu/"
+- name: Professor Maurizio Masi
+  title: Full Professor Politecnico di Milano
+  url: "https://www.cmic.polimi.it/en/persone/docenti-e-ricercatori/masi-maurizio/"
 
-- name: Professor Rodney Fox 
-  title: ChemE, Iowa State University
-  url: "https://www.cbe.iastate.edu/the-department/facultystaff/profile/rofox/"
+- name: Professor Renato Rota
+  title: Full Professor Politecnico di Milano
+  url: "https://www.cmic.polimi.it/en/persone/docenti-e-ricercatori/rota-renato/"
 
-- name: Professor Jonathan Freund 
-  title: MechSE + Aero, University of Illinois
-  url: "http://jbfreund.mechse.illinois.edu/"
+- name: Professor Giuseppe Storti 
+  title: Associate Professor Politecnico di Milano
+  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/storti-giuseppe/"
 
-- name: Dr. Kazuki Maeda
-  title: Center for Turbulence Research, Stanford
-  url: "https://sites.google.com/view/kazukimaeda/home"
+- name: Professor Mattia Sponchioni
+  title: Temporary Professor Politecnico di Milano
+  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/sponchioni-mattia/"
 
-- name: Professor Luke Olson 
-  title: Computer Science and CSE, University of Illinois
-  url: "http://lukeo.cs.illinois.edu/"
-
-- name: Professor Carlos Pantano 
-  title: University of Southern California
-  url: "https://viterbi.usc.edu/directory/faculty/Pantano-Rubino/Carlos"
-
-- name: Professor Themis Sapsis 
-  title: Sand Lab, MIT
-  url: "http://sandlab.mit.edu/"
-
-- name: Dr. Kevin Schmidmayer
-  title: Aix-Marseille University, France
-  url: "https://kevinschmidmayer.github.io/overview/"

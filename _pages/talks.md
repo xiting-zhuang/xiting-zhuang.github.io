@@ -5,30 +5,26 @@ sitemap: false
 permalink: /talks/
 ---
 
-<style>
-.btn{
-    margin-bottom:5px;
-    padding-top:1px;
-    padding-bottom:1px;
-    padding-left:15px;
-    padding-right:15px;
-}
-.jumbotron{
-    padding:3%;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-top:10px;
-    margin-bottom:30px;
-}
-</style>
+## Talks
 
+{% if site.data.conference_talks %}
 <div class="jumbotron">
-### Invited talks
-{% bibliography --query @incollection[keywords ^= invited] %}
+### Conference Abstracts
+{% for publi in site.data.conference_talks %}
+- <strong>{{ publi.title }}</strong> <br/> 
+ {{ publi.authors | replace_first: 'M.A. Shadab', '<b>M.A. Shadab</b>'}} <br/>
+ <i>{{ publi.conf }}</i> ({{ publi.year }}) <br/>
+{% endfor %}
 </div>
+{% endif %}
 
+{% if site.data.invited_talks %}
 <div class="jumbotron">
-### Regular talks
-{% bibliography --query @incollection[keywords != invited] %}
+### Invited Talks and Seminars
+<ul>
+{% for publi in site.data.invited_talks %}
+<li> {{ publi.name | replace: "-","&#8211;" }} </li>
+{% endfor %}
+</ul>
 </div>
-
+{% endif %}

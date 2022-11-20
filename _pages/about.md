@@ -20,7 +20,9 @@ permalink: /about/
   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
+  {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
+   
 
   <ul style="overflow: hidden">
   {% if member.number_educ == 1 %}
@@ -62,20 +64,9 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-<div class="jumbotron">
-### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
 {% if site.data.awards %}
 <div class="jumbotron">
-### Awards
+### Honors and Awards
 <ul>
 {% for award in site.data.awards %}
  <li> {{ award.name | replace: "-","&#8211;"}} </li>
@@ -84,34 +75,24 @@ permalink: /about/
 </div>
 {% endif %}
 
-
-{% if site.data.people %}
+{% if site.data.grants %}
 <div class="jumbotron">
-### Students and mentoring
+### Conference Grants and Funded Short Schools
 <ul>
-{% for student in site.data.people %}
- <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
+{% for grant in site.data.grants %}
+ <li> {{ grant.name }} </li>
 {% endfor %}
 </ul>
 </div>
 {% endif %}
 
-
-{% if site.data.collaborators %}
+{% if site.data.community_engagement %}
 <div class="jumbotron">
-### Collaborators
+### Community Engagement
 <ul>
-{% for collab in site.data.collaborators %}
- <li> <a href="{{collab.url}}" target="_blank">{{collab.name}}</a> ({{collab.title}})</li>
+{% for comm_engage in site.data.community_engagement %}
+ <li> {{ comm_engage.name }} </li>
 {% endfor %}
 </ul>
 </div>
 {% endif %}
-
-
-<div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
-</div>

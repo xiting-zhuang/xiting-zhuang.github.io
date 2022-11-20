@@ -1,0 +1,61 @@
+- title: "Analysis of gravity-driven infiltration with the development of a saturated region"
+  authors: "M.A. Shadab and M.A. Hesse"
+  url: shadab_infiltration_analytics2022
+  image: 
+  journal: "Water Resources Research, AGU"
+  info: 
+  year: 2022
+  doi: https://doi.org/10.1029/2022WR032963
+  abstract: "Understanding the controls on the infiltration of precipitation into soil is an important problem in hydrology and its representation in heterogeneous media is still challenging. Here we investigate the reduction of gravity-driven infiltration by the development of a saturated region due to the downward decrease in porosity and/or hydraulic conductivity. The formation of a saturated region chokes the flow and leads to a rising perched water table that causes ponding even when rainfall intensity is lower than the surface infiltration capacity. Mathematically this problem is interesting, because its governing partial differential equation switches from hyperbolic in the unsaturated region to elliptic in the saturated region. To analyze this coupled unsaturated-saturated flow we develop an extended kinematic wave analysis in the limit of no capillary forces. This theory provides a general framework to solve gravity-dominated infiltration problems for arbitrary downward decrease in porosity and/or conductivity. We apply the framework to three soil profiles (two-layer, exponential and power-law decay with depth) and develop (semi-) analytic solutions for evolution of the water saturation. For the case of a two-layer soil the saturated flux, and therefore the front speeds, are constant which allows explicit analytic solutions that agree well with Hydrus-1D. All solutions show excellent agreement with our numerical solutions of the governing equations in the limit of no capillary forces. Similarly, our solutions compare well with experimental data for infiltration into a multi-layer soil with declining hydraulic conductivity."
+
+- title: "Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks"
+  authors: "M.A. Shadab and D. Luo and Y. Shen and E. Hiatt and M.A. Hesse"
+  url: shadab_PINNsGWflow
+  image: 
+  journal: "Water Resources Research (submitted)"
+  info: 
+  year: 2021
+  doi: https://arxiv.org/abs/2112.13792
+  abstract: “A novel deep learning  technique called Physics Informed Neural Networks (PINNs) is adapted to study steady groundwater flow in unconfined aquifers. This technique utilizes information from underlying physics represented in the form of partial differential equations (PDEs) alongside data obtained from physical observations. In this work, we consider the Dupuit-Boussinesq equation, which is based on the Dupuit-Forchheimer approximation, as well as a recent more complete model derived by Di Nucci (2018) as underlying models. We then train PINNs on data obtained from steady-state analytical solutions and laboratory based experiments."
+
+- title: "Fifth-order finite-volume WENO on cylindrical grids"
+  authors: "M.A. Shadab and X. Ji and K. Xu"
+  url: shadab_ICOSAHOM_2020
+  image: 
+  journal: "Spectral and High Order Methods for Partial Differential Equations, Springer"
+  info: 
+  year: 2020
+  doi: https://doi.org/10.1007/978-3-030-39647-3
+  abstract: The fifth-order finite-volume WENO-C reconstruction scheme is proposed for structured grids in cylindrical coordinates to achieve high order spatial accuracy along with ENO transition. A grid independent smoothness indicator is derived for this scheme. For uniform grids, the analytical values in cylindrical-radial coordinates for the limiting case (R → ∞) conform to WENO-JS. Linear stability analysis of the present scheme is performed using a scalar advection equation in radial coordinates. Several tests involving smooth and discontinuous flows are performed, which testify for the fifth-order accuracy and ENO property of the scheme."
+
+- title: "Fifth order finite volume WENO in general orthogonally-curvilinear coordinates"
+  authors: "M.A. Shadab, D. Balsara, W. Shyy and X. Ji and K. Xu"
+  url: shadab_fifthWENO_CnF_2019
+  image: 
+  journal: "Computers & Fluids, Elsevier"
+  info: 
+  year: 2019
+  doi: https://doi.org/10.1016/j.compfluid.2019.06.031
+  abstract: "High order reconstruction in the finite volume (FV) approach is achieved by a more fundamental form of the fifth order WENO reconstruction in the framework of orthogonally-curvilinear coordinates, for solving the hyperbolic conservation equations. The derivation employs a piecewise parabolic polynomial approximation to the zone averaged values to reconstruct the right, middle, and left interface values. The grid dependent linear weights of the WENO are recovered by inverting a Vandermode-like linear system of equations with spatially varying coefficients. A scheme for calculating the linear weights, optimal weights, and smoothness indicator on a regularly- and irregularly-spaced grid in orthogonally-curvilinear coordinates is proposed. A grid independent relation for evaluating the smoothness indicator is derived from the basic definition. Finally, the procedures for the source term integration and extension to multi-dimensions are proposed. Analytical values of the linear and optimal weights, and also the weights required for the source term integration and flux averaging, are provided for a regularly-spaced grid in Cartesian, cylindrical, and spherical coordinates. Conventional fifth order WENO reconstruction for the regularly-spaced grids in the Cartesian coordinates can be fully recovered in the case of limiting curvature. The fifth order finite volume WENO-C (orthogonally-curvilinear version of WENO) reconstruction scheme is tested for several 1D and 2D benchmark test cases involving smooth and discontinuous flows in cylindrical and spherical coordinates."
+
+- title: "Fifth-order finite volume WENO in general orthogonally-curvilinear coordinates"
+  authors: "M.A. Shadab"
+  url: shadab_MPhil_thesis2018
+  image: 
+  journal: "MPhil Thesis, HKUST"
+  info: 
+  year: 2018
+  doi: https://doi.org/10.14711/thesis-991012638164903412
+  abstract: "In this thesis, a high order reconstruction in the finite volume (FV) approach is achieved by a more fundamental form of the fifth order WENO reconstruction in the framework of orthogonally‒curvilinear coordinates, for solving hyperbolic conservation equations. The derivation employs a piecewise parabolic polynomial approximation to the zone averaged values (Q̄i) to reconstruct the right (qi+), middle (qiM), and left (qi‒) interface values. The grid dependent linear weights of the WENO are recovered by inverting a Vandermonde‒like linear system of equations with spatially varying coefficients. A scheme for calculating the linear weights, optimal weights, and smoothness indicator on a regularly‒/irregularly‒spaced grid in orthogonally‒curvilinear coordinates is proposed. A grid independent relation for evaluating the smoothness indicator is derived from the basic definition. Finally, a computationally efficient extension to multi-dimensions is proposed along with the procedures for flux and source term integrations. Analytical values of the linear weights, optimal weights, and weights for flux and source term integrations are provided for a regularly‒spaced grid in Cartesian, cylindrical, and spherical coordinates. Conventional fifth order WENO‒JS can be fully recovered in the case of limiting curvature (R → ∞). The fifth order finite volume WENO‒C (orthogonally‒curvilinear version of WENO) reconstruction scheme is tested for several 1D and 2D benchmark tests involving smooth and discontinuous flows in cylindrical and spherical coordinates."
+
+- title: "Investigation and control of unstart phenomenon in scramjets"
+  authors: "M.A. Shadab and M.F. Baig"
+  url: shadab_Scramjet_2017
+  image: 
+  journal: "21st AIAA international Space Planes and Hypersonics Technologies Conference"
+  info: 
+  year: 2017
+  doi: https://doi.org/10.2514/6.2017-2298
+  abstract: "Engine unstart is generated with the aid of thermal choking due to impulsive heat addition inside the combustor. The generated pressure disturbance traverses upstream inside the isolator duct in the form of normal shock, resulting in a loss of thrust and possible in flameout of the engine. A quasi-one-dimensional adaptation of mass, momentum and energy conservation equations of compressible flow with an appropriate heat release model is employed to investigate the flow physics inside the Scramjet in the case of starting and unstart conditions. Finally, a single-input-single-output (SISO) mechanism based on pressure feedback is proposed to avert this plaguing problem. Pressure enhancement in the upstream propagating normal shock is blown down with the aid of modeled bleeding mechanism. The effectiveness of controlling unstart inside the isolator is further analyzed with varying bleed-length and bleeding efficiency."
+
+
