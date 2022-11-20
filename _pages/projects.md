@@ -84,7 +84,7 @@ The applications I am currently studying as a part of my doctoral study are:
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/773107938?h=f4900e1c97&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="185" height="182" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ezgif.com-gif-maker-2.mp4"></iframe>
 </div>
 </div>
 </div>
