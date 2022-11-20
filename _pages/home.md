@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome! (Template!!!!)
+### Welcome!
 
 My name is Xiting Zhuang. I am currently a doctoral candidate in Agricultual and Resource Economics at University of Connecticut working with Dr. Sandro Steinbach. I am also a master student at Georgia Institute of Technology, with specialization in Machine Learning. 
 
