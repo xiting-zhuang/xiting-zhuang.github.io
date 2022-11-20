@@ -144,8 +144,7 @@ Entrepreneurship and Maker Skills Integrator program (2018).
 <b>Developer:</b>
 <i> Xiting Zhuang</i>
 
-Salient features of the Python program (<a href='https://github.com/mashadab/twitterwebscraper' target='_blank'>src</a>):
+Salient features of the Python program (<a href='https://github.com/xiting-zhuang/China-Census-Scraper' target='_blank'>src</a>):
 
-* Calculates and can also print Tweets with a "keyword" for a specific period in a specific region in the world.
-* Doesn't require Twitter Official Access Token.
-* Bypasses Twitter official time limit of 7 days.
+* Expand download sample to 200 thousand samples per scrapying that surpass the downloading restrictions for 95%. 
+* Bypasses Census Website's "slider" feather.
