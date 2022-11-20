@@ -1,20 +1,4 @@
-- name: Professor Massimo Morbidelli
-  title: Full Professor Politecnico di Milano
-  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/morbidelli-massimo/"
-
-- name: Professor Maurizio Masi
-  title: Full Professor Politecnico di Milano
-  url: "https://www.cmic.polimi.it/en/persone/docenti-e-ricercatori/masi-maurizio/"
-
-- name: Professor Renato Rota
-  title: Full Professor Politecnico di Milano
-  url: "https://www.cmic.polimi.it/en/persone/docenti-e-ricercatori/rota-renato/"
-
-- name: Professor Giuseppe Storti 
-  title: Associate Professor Politecnico di Milano
-  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/storti-giuseppe/"
-
-- name: Professor Mattia Sponchioni
-  title: Temporary Professor Politecnico di Milano
-  url: "https://www.cmic.polimi.it/persone/docenti-e-ricercatori/sponchioni-mattia/"
+- name: First Second
+  title: Title and Institute
+  url: "Profile Link"
 
