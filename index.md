@@ -3,10 +3,10 @@ layout: page
 ---
 
 # About Me
- 
-<img src="images/Zhuang_headshot_full.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+<img src="https://xiting-zhuang.github.io/images/Zhuang_headshot_full.jpg" class="floatpic" width="360" height="480">
+
+Here is **Xiting Zhuang (Lance, [庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**.
 
 I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
