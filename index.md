@@ -45,4 +45,3 @@ My economic research focuses on the impact of global supply chain disruptions on
 - **Jul 2023：**Paper accepted in Agribusiness. 
 - **Jul 2023：**Presented paper on issue of Mississippi River drought at AAEA 2023 in Washiton DC.
 - **Dec 2022：**Presented paper at IATRC 2022 in Clearwater, Florida. 
-- [Online talk with me.](https://calendly.com/xiting-zhuang/one-on-one-with-me)
