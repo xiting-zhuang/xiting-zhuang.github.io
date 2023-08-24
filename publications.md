@@ -5,8 +5,8 @@ title: Publications
 ---
 
 ## Publications
-
-- [‘Containergeddon’ and California Agriculture.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br> 2021. <em>ARE Update<em> 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. <br>
+ 
+- [<span style="color:bkye">**‘Containergeddon’ and California Agriculture</span>**.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br> 2021. <em>ARE Update<em> 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. <br>
 
 - [Supply chain disruptions and containerized agricultural exports from California ports.](https://doi.org/10.1002/aepp.13311) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**., <em>Applied Economic Perspectives and Policy<em>. 2022.<br>
 
