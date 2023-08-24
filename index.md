@@ -2,9 +2,12 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="https://xiting-zhuang.github.io/images/Zhuang_headshot_full.JPG" class="floatpic" width="360" height="480">
+
+
+
 
 Here is **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**.
 
