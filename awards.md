@@ -7,11 +7,9 @@ title: Awards
 ## Journal/Conference Referee
 - International Food and Agribusiness Management Review 
 - AAEA
-
 <br>
 
 ## Honors, Awards, & Fellowships
-
 - Conference Participation Award, Graduate School, University of Connecticut, 2022
 - 26th EAERE Participation Grant, EAERE 2021
 - 2020-2021 Predoctoral Fellowship Award, ARE Department, University of Connecticut - Summer Fellowship, ARE Department, University of Connecticut, 2020
