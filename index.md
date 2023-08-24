@@ -29,10 +29,11 @@ My economic research focuses on the impact of global supply chain disruptions on
 
 **<font color='red'>[Highlight]</font> I currently on the job market. Contact me if you have any leads!**
 
-- **Sep 2010 - June 2014:** Xiamen University, Tan Kah Kee College  (BSc)
-- **Sep 2014 - May 2017:** Fuzhou University (MSc)
 - **June 2017 - Dec 2023:** University of Connecticut (Ph.D.)
- 
+- **Sep 2020 - Dec 2023:** Georgia Institute of Technology (MS.)
+- **Sep 2014 - May 2017:** Fuzhou University (MS.)
+<!-- - **Sep 2010 - June 2014:** Xiamen University, Tan Kah Kee College  (BSc)-->
+
 <br>
 
  
