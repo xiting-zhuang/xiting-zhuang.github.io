@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://xiting-zhuang.github.io/images/Zhuang_headshot_full.jpg" class="floatpic" width="360" height="480">
+<img src="https://xiting-zhuang.github.io/images/Zhuang_headshot_full.JPG" class="floatpic" width="360" height="480">
 
-Here is **Xiting Zhuang (Lance, [庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**.
+Here is **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**.
 
 I'm a doctoral candidate in **Agricultural and Resource Economics** at the University of Connecticut, concurrently pursuing a Master's degree in **Computer Science** with a specialization in Machine Learning at the Georgia Institute of Technology, and I bridge the realms of economics and technology by applying advanced computational techniques to unravel intricate patterns and insights within global agri-food trade dynamic. My economic research focuses on the impact of global supply chain disruptions on agri-food trade. Leveraging skills in economics, machine learning, and programming, I uncover insights into the complex challenges of international trade, supply chain, and environemtal economics. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions". 
 
