@@ -6,7 +6,7 @@ title: Publications
 
 ## Publications
 
-- [‘Containergeddon’ and California Agriculture.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A., Sandro Steinbach, and <br>**Xiting Zhuang**. 2021. ARE Update 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. <br>
+- [‘Containergeddon’ and California Agriculture.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. <br> 2021. ARE Update 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. <br>
 
 
 - [Supply chain disruptions and containerized agricultural exports from California ports.](https://doi.org/10.1002/aepp.13311) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. “Supply chain disruptions and containerized agricultural exports from California ports.”, Applied Economic Perspectives and Policy. 2022.<br>
@@ -21,8 +21,9 @@ title: Publications
 - [U.S. Agricultural Exports and the 2022 Mississippi River Drought](https://ageconsearch.umn.edu/record/335476/files/26473.pdf) <br> Steinbach, Sandro and **Xiting Zhuang**. “U.S. Agricultural Exports and the 2022 Mississippi River Drought.”, Agribusiness, 2023 (Forthcoming). <br>
 
 
-- Steinbach, Sandro and **Xiting Zhuang**. “Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry.”, Choice, 38(2). [link](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188)
-- Xiting, Zhuang. “Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model.”, Logistics Engineering and Management. 2016. (In Chinese)
+- [Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188) <br> Steinbach, Sandro and **Xiting Zhuang**. Choice, 38(2).  <br> 
+
+- Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model <br> Xiting, Zhuang., Logistics Engineering and Management. 2016. (In Chinese) <br> 
 
 ## Outreach and Other Publications
 - Sandro Steinbach and **Xiting Zhuang**. “Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade.” Southern Ag Today. 2(4.5). 2023. [link](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)

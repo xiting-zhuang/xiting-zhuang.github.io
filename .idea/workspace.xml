@@ -16,6 +16,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "xiting-zhuang"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "author": "xiting-zhuang"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a5a4be8f-cb9b-4fde-a7ce-97b7512a10f0" />
+        <option name="url" value="https://github.com/xiting-zhuang/xiting-zhuang.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667046162046</updated>
       <workItem from="1667046175596" duration="621000" />
-      <workItem from="1692850436212" duration="1715000" />
+      <workItem from="1692850436212" duration="2067000" />
     </task>
     <servers />
   </component>
