@@ -6,8 +6,12 @@ title: Publications
 
 ## Publications
 
-- Carter, Colin A., Sandro Steinbach, and Xiting Zhuang. 2021. “‘Containergeddon’ and Cali- fornia Agriculture.” ARE Update 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. [link](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)
-- Carter, Colin A., Sandro Steinbach, and Xiting Zhuang. “Supply chain disruptions and con- tainerized agricultural exports from California ports.”, Applied Economic Perspectives and Pol- icy. 2022. [link](https://doi.org/10.1002/aepp.13311)
+- [‘Containergeddon’ and California Agriculture.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A., Sandro Steinbach, and <br>Xiting Zhuang. 2021. ARE Update 25(2): 1–4. University of California Giannini Foundation of Agricultural, University of California, Davis. <br>
+
+
+- [Supply chain disruptions and con- tainerized agricultural exports from California ports.](https://doi.org/10.1002/aepp.13311) <br> Carter, Colin A., Sandro Steinbach, and Xiting Zhuang. “Supply chain disruptions and containerized agricultural exports from California ports.”, Applied Economic Perspectives and Policy. 2022.<br>
+
+
 - Steinbach, Sandro and Xiting Zhuang. “Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports”, Applied Economic Perspectives and Policy (Forthcoming). [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje69eghNX8AhXokYkEHWQsBCAQFnoECBgQAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2023%2Fprogram%2Fpaper%2F9b9y39sR&usg=AOvVaw3gBn65ltqGdSrvv1mvi78O)
 - Schweizer, Heidi, Sandro Steinbach and Xiting Zhuang. “A Portrait of Firms that Trade in Meat Products.”, Western Economics Forum. 2022. [link](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6)
 - Steinbach, Sandro and Xiting Zhuang. “The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories.”, Agribusiness. 2023. [link](https://doi.org/10.1002/agr.21809)
@@ -24,6 +28,7 @@ title: Publications
 ## Working Papers
 - “Global Shipping Container Disruptions and U.S. Agricultural Exports.”, with Colin Carter, and Sandro Steinbach. [link]
 - “Global Trade Effects of Tightening Environmental Trade Policies in China.”, with Sandro Stein- bach. [link]
+
 ## Work in Progress
 - Covid-19 Pandemic on International Trade: Evidence from China
 - “After Maths of the Basel Convention: The Trade Effects of Environmental Provisions in Pref- erential Trade Agreements.”
