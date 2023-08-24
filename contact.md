@@ -15,7 +15,7 @@ title: Contact
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/xiting-zhuang/one-on-one-with-me).Welcome to chat with me!
+I have set up the [online-coffee-time](https://calendly.com/xiting-zhuang/one-on-one-with-me).Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
