@@ -16,10 +16,10 @@ title: Publications
 - Xiting, Zhuang. “Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model.”, Logistics Engineering and Management. 2016. (In Chinese)
 
 ## Outreach and Other Publications
-- Sandro Steinbach and Xiting Zhuang. “Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade.” Southern Ag Today. 2(4.5). 2023. [link]
-- Heidi Schweizer, Sandro Steinbach and Xiting Zhuang. “International Market Concentration in the Southern Meat Trading Market.” Southern Ag Today. 2(29.4). 2022. [link]
-- Sandro Steinbach and Xiting Zhuang. “Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports.” Southern Ag Today. 2(17.4). 2022. [link]
-- Sandro Steinbach and Xiting Zhuang. “Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut,” Eversource Energy. 2021 [link]
+- Sandro Steinbach and Xiting Zhuang. “Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade.” Southern Ag Today. 2(4.5). 2023. [link](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)
+- Heidi Schweizer, Sandro Steinbach and Xiting Zhuang. “International Market Concentration in the Southern Meat Trading Market.” Southern Ag Today. 2(29.4). 2022. [link](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)
+- Sandro Steinbach and Xiting Zhuang. “Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports.” Southern Ag Today. 2(17.4). 2022. [link](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)
+- Sandro Steinbach and Xiting Zhuang. “Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut,” Eversource Energy. 2021 [link](https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0)
 
 ## Working Papers
 - “Global Shipping Container Disruptions and U.S. Agricultural Exports.”, with Colin Carter, and Sandro Steinbach. [link]
