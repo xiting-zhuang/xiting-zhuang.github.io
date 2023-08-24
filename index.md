@@ -3,7 +3,6 @@ layout: page
 ---
 
 ## About Me
-
 <br>
 
 <img src="https://xiting-zhuang.github.io/images/Zhuang_headshot_full.JPG" class="floatpic" width="360" height="480" >
