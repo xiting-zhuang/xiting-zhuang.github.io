@@ -8,7 +8,9 @@ layout: page
 
 Here is **Xiting Zhuang (Lance, [庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I'm a doctoral candidate in **Agricultural and Resource Economics** at the University of Connecticut, concurrently pursuing a Master's degree in **Computer Science** with a specialization in Machine Learning at the Georgia Institute of Technology, and I bridge the realms of economics and technology by applying advanced computational techniques to unravel intricate patterns and insights within global agri-food trade dynamic. My economic research focuses on the impact of global supply chain disruptions on agri-food trade. Leveraging skills in economics, machine learning, and programming, I uncover insights into the complex challenges of international trade, supply chain, and environemtal economics. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions". 
+
+Currently, I am working as a research assistant in the **Computer Science and Engineering Department**, advised by [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
 
 <br>
 
