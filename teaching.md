@@ -6,7 +6,7 @@ title: Teaching
 
 ## Teaching Assistant
 
-# Department of Agricultural and Resources Economics, University of Connecticut
+**Department of Agricultural and Resources Economics, University of Connecticut**
 
 - **ARE 3250** - Spring 2020
 Business Management, Gabriel Marmolejos
