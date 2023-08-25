@@ -5,7 +5,7 @@ layout: page
 ## About Me
 <br>
 
-Here is **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm a doctoral candidate in **Agricultural and Resource Economics** at the University of Connecticut, concurrently pursuing a Master's degree in **Computer Science** with a specialization in Machine Learning at the Georgia Institute of Technology. I bridge the realms of economics and technology by applying advanced computational techniques to unravel intricate patterns and insights within global agri-food trade dynamic. Currently, I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach) and working as a research assistant in the Computer Science and Engineering Department at UConn. Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
+Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm a doctoral candidate in **Agricultural and Resource Economics** at the University of Connecticut, concurrently pursuing a Master's degree in **Computer Science** with a specialization in Machine Learning at the Georgia Institute of Technology. I bridge the realms of economics and technology by applying advanced computational techniques to unravel intricate patterns and insights within global agri-food trade dynamic. Currently, I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach) and working as a research assistant in the Computer Science and Engineering Department at UConn. Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
 
 <br>
 <div class="image-container">
