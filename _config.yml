@@ -83,5 +83,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-Latest update in %Y/%m/%d by Xiting Zhuang.
-URL: https://xting.zhuang.github.io/
+# Latest update in 2023/08/01 by Xiting Zhuang.
+# URL: https://caihanlin.com/
