@@ -36,18 +36,16 @@ title: Publications
 
 
 ## Outreach and Other Publications
-- Sandro Steinbach and **Xiting Zhuang**. “Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade.” Southern Ag Today. 2(4.5). 2023. [link](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)
-- Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. “International Market Concentration in the Southern Meat Trading Market.” Southern Ag Today. 2(29.4). 2022. [link](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)
-- Sandro Steinbach and **Xiting Zhuang**. “Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports.” Southern Ag Today. 2(17.4). 2022. [link](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)
-- Sandro Steinbach and **Xiting Zhuang**. “Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut,” Eversource Energy. 2021 [link](https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0)
+- Sandro Steinbach and **Xiting Zhuang**. “[Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)”, Southern Ag Today. 2(4.5). 2023.  
+- Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. “[International Market Concentration in the Southern Meat Trading Market.](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)”, Southern Ag Today. 2(29.4). 2022.  
+- Sandro Steinbach and **Xiting Zhuang**. “[Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)”, Southern Ag Today. 2(17.4). 2022.  
+- Sandro Steinbach and **Xiting Zhuang**. “[Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut]((https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0))”, Eversource Energy. 2021  
 
 ## Selected Media Coverage
-- “US Is Losing Soybean-Export Edge as Brazil Closes Logistics Gap,” Bloomberg, September 6, 2022.
-   https://www.bloomberg.com/news/articles/2022-09-06/
-- “US Citrus Growers Struggle During Supply Chain Snarl,” The Epoch Times, February 16, 2022. https://www.theepochtimes.com/
-- “Assembly Select Committee on Ports and Goods Movement,” California State Assembly Com- mittee on Agriculture, February 2, 2022.
+- “[US Is Losing Soybean-Export Edge as Brazil Closes Logistics Gap](https://www.bloomberg.com/news/articles/2022-09-06/)” Bloomberg, September 6, 2022.
+- “[US Citrus Growers Struggle During Supply Chain Snarl](https://www.theepochtimes.com/)” The Epoch Times, February 16, 2022. 
+- “[Assembly Select Committee on Ports and Goods Movement](https://www.theepochtimes.com/)” California State Assembly Com- mittee on Agriculture, February 2, 2022.
 https://www.assembly.ca.gov/
-- ““Containergeddon” Results in $2.1B Loss to California Farmers,” Western Growers, January 20, 2022.
-https://www.wga.com/blog/“containergeddon”
-- “Containergeddon Cost Ag $2.1 Billion Last Summer, And Supply Chain Bottlenecks Aren’t Over Yet.”, KVPR, NPR for Central California, January 11, 2022. https://kvpr.org/business-economy/2022-01-11
-- “Inefficient California Ports Cost Farmers Billions.”, UConn Today, January 3, 2022. https://today.uconn.edu/2022/01/
+- “[“Containergeddon” Results in $2.1B Loss to California Farmers](https://www.wga.com/blog/“containergeddon”)” Western Growers, January 20, 2022.
+- “[Containergeddon Cost Ag $2.1 Billion Last Summer, And Supply Chain Bottlenecks Aren’t Over Yet](https://kvpr.org/business-economy/2022-01-11)”, KVPR, NPR for Central California, January 11, 2022. 
+- “[Inefficient California Ports Cost Farmers Billions.](https://today.uconn.edu/2022/01/)”, UConn Today, January 3, 2022. 
