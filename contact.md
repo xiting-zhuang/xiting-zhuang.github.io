@@ -2,11 +2,13 @@
 layout: page
 permalink: /contact/index.html
 title: Contact
+comments: false
 ---
+## Contact 
 
-# Contact
-
-**Email:** [xiting.zhuang@uconn.edu](xiting.zhuang@uconn.edu)
+<div>
+    <img src="/assets/images/avthm.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
+</div>
 
 
 <div style="border-left: 2px solid rgba(199, 198, 198, 0.7); margin: 0.5em 0 0 0.5em; padding-left: 1.5em; font-weight: 500;">
@@ -16,28 +18,22 @@ title: Contact
         </li>
         <li>
           <a href="https://github.com/xiting-zhuang" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/choiiis</span>
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/xiting-zhuang</span>
           </a>
         </li>
         <li>
           <a href="mailto:xiting.zhuang@uconn.edu">
             <meta itemprop="email" content="bemychoiiis@gmail.com" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  bemychoiiis@gmail.com</span>
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  xiting.zhuang@uconn.edu</span>
           </a>
         </li>
     </ul>
   </div>
 
 
-
-
-
-
 ## Chat with me
 
 I have set up the [online-coffee-time](https://calendly.com/xiting-zhuang/online-coffee-time).Welcome to chat with me!
-
-
 
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/xiting-zhuang/online-coffee-time" style="min-width:320px;height:700px;"></div>
