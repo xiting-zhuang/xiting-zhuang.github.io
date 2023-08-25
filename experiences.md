@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Experiences
 ---
 
 ## Journal/Conference Referee
 - International Food and Agribusiness Management Review 
+- Journal of the Agricultural and Applied Economics Association
 - AAEA
 <br>
 
@@ -16,7 +17,6 @@ title: Awards
 - AAEA Travel Award, AAEA, 2019
 - Summer Fellowship, ARE Department, University of Connecticut, 2019
 - Xiamen University, TKK First Order Scholarship, 2011
-
 <br>
 
 ## Affiliations
