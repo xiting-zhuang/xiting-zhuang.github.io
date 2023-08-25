@@ -34,10 +34,9 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: CV
-    url: /file/XitingZhuang-CV.pdf
   - title: Publications
     url: /publications/
+
   - title: Awards
     url: /awards/
 #  - title: Fundings
@@ -46,6 +45,8 @@ links:
     url: /contact/
 # - title: Blogs
 #   url: /blogs/
+  - title: CV
+    url: /file/XitingZhuang-CV.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: United States/New York
