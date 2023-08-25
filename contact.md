@@ -4,6 +4,10 @@ permalink: /contact/index.html
 title: Contact
 comments: false
 ---
+
+# Contact Information
+
+<br>
 ## Contact 
 
 <div>
@@ -30,7 +34,7 @@ comments: false
     </ul>
   </div>
 
-
+<br>
 ## Chat with me
 
 I have set up the [online-coffee-time](https://calendly.com/xiting-zhuang/online-coffee-time).Welcome to chat with me!
