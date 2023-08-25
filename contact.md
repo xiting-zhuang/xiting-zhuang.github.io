@@ -23,7 +23,7 @@ comments: false
         </li>
         <li>
           <a href="mailto:xiting.zhuang@uconn.edu">
-            <meta itemprop="email" content="bemychoiiis@gmail.com" />
+            <meta itemprop="email" content="xiting.zhuang@uconn.edu" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  xiting.zhuang@uconn.edu</span>
           </a>
         </li>
