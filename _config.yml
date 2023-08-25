@@ -37,18 +37,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
-
   - title: Experiences
     url: /experiences/
-#  - title: Fundings
-#    url: /fundings/
   - title: Contact
     url: /contact/
-# - title: Blogs
-#   url: /blogs/
   - title: CV
     url: /file/XitingZhuang-CV.pdf
-
+# - title: Blogs
+#   url: /blogs/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: United States/New York
 future: true
