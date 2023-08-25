@@ -44,8 +44,8 @@ links:
 #    url: /fundings/
   - title: Contact
     url: /contact/
-  - title: Blogs
-    url: /blogs/
+# - title: Blogs
+#   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: United States/New York
