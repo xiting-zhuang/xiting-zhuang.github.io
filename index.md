@@ -26,7 +26,7 @@ My economic research focuses on the impact of global supply chain disruptions on
 
 <br>
 
-
+<!--
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I currently on the job market. Contact me if you have any leads!**
@@ -34,7 +34,9 @@ My economic research focuses on the impact of global supply chain disruptions on
 - **June 2017 - Dec 2023:** University of Connecticut (Ph.D.)
 - **Sep 2020 - Dec 2023:** Georgia Institute of Technology (MS.)
 - **Sep 2014 - May 2017:** Fuzhou University (MS.)
-<!-- - **Sep 2010 - June 2014:** Xiamen University, Tan Kah Kee College  (BSc)-->
+ - **Sep 2010 - June 2014:** Xiamen University, Tan Kah Kee College  (BSc)
+ 
+ -->
 
 <br>
 
@@ -43,7 +45,7 @@ My economic research focuses on the impact of global supply chain disruptions on
 
 ## News and Updates
 
-- **Jul 2023：**Paper accepted in Applied Economic Perspectives and Policy. 
-- **Jul 2023：**Paper accepted in Agribusiness. 
-- **Jul 2023：**Presented paper on issue of Mississippi River drought at AAEA 2023 in Washiton DC.
-- **Dec 2022：**Presented paper at IATRC 2022 in Clearwater, Florida. 
+- **Jul 2023：**Paper published in **Applied Economic Perspectives and Policy**. 
+- **Jul 2023：**Paper published in **Agribusiness**. 
+- **Jul 2023：**Presented paper on issue of Mississippi River drought at **AAEA 2023** in Washiton DC.
+- **Dec 2022：**Presented paper at **IATRC 2022** in Clearwater, Florida. 
