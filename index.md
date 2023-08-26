@@ -39,5 +39,5 @@ My economic research focuses on the impact of global supply chain disruptions on
 
 - **Jul 2023：**Paper published in **Applied Economic Perspectives and Policy**. 
 - **Jul 2023：**Paper published in **Agribusiness**. 
-- **Jul 2023：**Presented paper on issue of Mississippi River drought at **AAEA 2023** in Washiton DC.
+- **Jul 2023：**Presented paper at **AAEA 2023** in Washiton DC.
 - **Dec 2022：**Presented paper at **IATRC 2022** in Clearwater, Florida. 
