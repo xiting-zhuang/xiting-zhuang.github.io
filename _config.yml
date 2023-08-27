@@ -47,12 +47,7 @@ links:
     url: /contact/
   - title: CV
     url: /file/XitingZhuang-CV.pdf
-  - title: Dropdown
-    submenu:
-      - title: Submenu Item 1
-        url: /submenu-item-1/
-      - title: Submenu Item 2
-        url: /submenu-item-2/
+
 
 # - title: Blogs
 #   url: /blogs/
