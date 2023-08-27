@@ -7,20 +7,20 @@ classes: wide
 ---
 
 ## Publications
- 
-- [**‘Containergeddon’ and California Agriculture**](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf). University of California Giannini Foundation of Agricultural, University of California, Davis. 2021. <em>ARE Update<em> 25(2): 1–4.   <br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br>
-
-- [**Supply Chain Disruptions and Containerized Agricultural Exports From California Ports**](https://doi.org/10.1002/aepp.13311). <em>Applied Economic Perspectives and Policy<em>, 45(2), 1051-1071. <br>  Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. [https://doi.org/10.1002/aepp.13311](https://doi.org/10.1002/aepp.13311) <br>
-
-- [**Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje69eghNX8AhXokYkEHWQsBCAQFnoECBgQAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2023%2Fprogram%2Fpaper%2F9b9y39sR&usg=AOvVaw3gBn65ltqGdSrvv1mvi78O)  <em>Applied Economic Perspectives and Policy<em> (Forthcoming). <br> Steinbach, Sandro and **Xiting Zhuang**.  <br>  
-
-- [**A Portrait of Firms that Trade in Meat Products**](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6)  <em>Western Economics Forum<em>. 2022.  <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**. <br>
 
 - [The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories](https://doi.org/10.1002/agr.21809) <em>Agribusiness<em>. 2023.  <br> Steinbach, Sandro and **Xiting Zhuang**. [https://doi.org/10.1002/agr.21809](https://doi.org/10.1002/agr.21809) <br>
 
-- [U.S. Agricultural Exports and the 2022 Mississippi River Drought](https://ageconsearch.umn.edu/record/335476/files/26473.pdf) <br> Steinbach, Sandro and **Xiting Zhuang**. “U.S. Agricultural Exports and the 2022 Mississippi River Drought.”, <br> <em>Agribusiness<em>, 2023 (Forthcoming).  
+- [**Supply Chain Disruptions and Containerized Agricultural Exports From California Ports**](https://doi.org/10.1002/aepp.13311). <em>Applied Economic Perspectives and Policy<em>, 45(2), 1051-1071. <br>  Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. [https://doi.org/10.1002/aepp.13311](https://doi.org/10.1002/aepp.13311) <br>
 
-- [Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188) <br> Steinbach, Sandro and **Xiting Zhuang**. <br> <em>Choice<em>, 38(2).   
+- [**Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje69eghNX8AhXokYkEHWQsBCAQFnoECBgQAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2023%2Fprogram%2Fpaper%2F9b9y39sR&usg=AOvVaw3gBn65ltqGdSrvv1mvi78O). <em>Applied Economic Perspectives and Policy<em> (Forthcoming). <br> Steinbach, Sandro and **Xiting Zhuang**. <br>  
+
+- [**‘Containergeddon’ and California Agriculture**](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf). University of California Giannini Foundation of Agricultural, University of California, Davis. 2021. <em>ARE Update<em> 25(2): 1–4.   <br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br>
+
+- [**A Portrait of Firms that Trade in Meat Products**](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6)  <em>Western Economics Forum<em>. 2022.  <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**. <br>
+
+- [**U.S. Agricultural Exports and the 2022 Mississippi River Drought**](https://ageconsearch.umn.edu/record/335476/files/26473.pdf). <em>Agribusiness<em>, 2023 (Forthcoming). <br> Steinbach, Sandro and **Xiting Zhuang**.
+
+- [**Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry**](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188). <em>Choice<em>, 38(2).  <br> Steinbach, Sandro and **Xiting Zhuang**. <br> 
 
 - [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). Logistics Engineering and Management. 2016. <br> **Xiting, Zhuang**., <br> 
 
