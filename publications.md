@@ -41,13 +41,13 @@ title: Publications
 
 ## Outreach and Other Publications
 
-- Sandro Steinbach and **Xiting Zhuang**. “[Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)”, Southern Ag Today. 2(4.5). 2023.  <br>
+- [Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/), Southern Ag Today. 2(4.5).2023. <br> Sandro Steinbach and **Xiting Zhuang**.    <br>
 
-- Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. “[International Market Concentration in the Southern Meat Trading Market.](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)”, Southern Ag Today. 2(29.4). 2022.  <br>
+- [International Market Concentration in the Southern Meat Trading Market.](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/), Southern Ag Today. 2(29.4).2022.  <br> Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. <br> 
 
-- Sandro Steinbach and **Xiting Zhuang**. “[Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)”, Southern Ag Today. 2(17.4). 2022.  <br>
+- [Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/), Southern Ag Today. 2(17.4).2022. <br>  Sandro Steinbach and **Xiting Zhuang**.  <br>
 
-- Sandro Steinbach and **Xiting Zhuang**. “[Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut]((https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0))”, Eversource Energy. 2021 <br> 
+- [Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut]((https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0)), Eversource Energy.2021.  <br>  Sandro Steinbach and **Xiting Zhuang**.  <br> 
 
 ## Selected Media Coverage
 
