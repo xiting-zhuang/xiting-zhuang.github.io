@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-
+class: wide
 ---
 
 ## Publications
@@ -24,6 +24,8 @@ title: Publications
 - [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). <em>Logistics Engineering and Management<em>. 2016. <br> **Xiting, Zhuang**.<br> 
 
 ## Working Papers
+
+- [**Trade Implications of Ending China’s Zero-Covid Policy**]( ). <br> Sandro Steinbach and **Xiting Zhuang**. <br> (Under review)
 
 - [**Global Shipping Container Disruptions and U.S. Agricultural Exports**](http://dx.doi.org/10.22004/ag.econ.320397). Working Paper 2022-04. <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. <br>
 
