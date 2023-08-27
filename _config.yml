@@ -87,7 +87,7 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-Latest update in 2023/08/27 by Xiting Zhuang.
+# Latest update in 2023/08/01 by Xiting Zhuang.
 # URL: https://caihanlin.com/
 
    
