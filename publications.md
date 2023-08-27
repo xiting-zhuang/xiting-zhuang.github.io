@@ -8,8 +8,9 @@ classes: wide
 
 ## Publications
  
-- [‘Containergeddon’ and California Agriculture.](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf)<br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br>   <em>ARE Update<em> 25(2): 1–4. <br> University of California Giannini Foundation of Agricultural, University of California, Davis. 2021.
-- [Supply Chain Disruptions and Containerized Agricultural Exports From California Ports.](https://doi.org/10.1002/aepp.13311) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**., <br> <em>Applied Economic Perspectives and Policy<em>. 2022.
+- [**‘Containergeddon’ and California Agriculture.**](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf). University of California Giannini Foundation of Agricultural, University of California, Davis. 2021. <em>ARE Update<em> 25(2): 1–4.   <br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br>  
+
+- [Supply Chain Disruptions and Containerized Agricultural Exports From California Ports.](https://doi.org/10.1002/aepp.13311) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**., <br> <em>Applied Economic Perspectives and Policy<em>. 2022. 
 - [Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje69eghNX8AhXokYkEHWQsBCAQFnoECBgQAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2023%2Fprogram%2Fpaper%2F9b9y39sR&usg=AOvVaw3gBn65ltqGdSrvv1mvi78O) <br> Steinbach, Sandro and **Xiting Zhuang**.  <br> <em>Applied Economic Perspectives and Policy<em> (Forthcoming).   
 - [A Portrait of Firms that Trade in Meat Products](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6) <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**. <br> <em>Western Economics Forum<em>. 2022.  
 - [The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories](https://doi.org/10.1002/agr.21809) <br> Steinbach, Sandro and **Xiting Zhuang**. <br> <em>Agribusiness<em>. 2023.  
