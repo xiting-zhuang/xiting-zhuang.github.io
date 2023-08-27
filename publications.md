@@ -19,7 +19,7 @@ title: Publications
 
 - [**A Portrait of Firms that Trade in Meat Products**](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6). <em>Western Economics Forum<em>. <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**, 2022. <br>[10.22004/ag.econ.329728](https://ageconsearch.umn.edu/record/329728) <br>
 
-- [**Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry**](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188). <em>Choices: The Magazine of Food, Farm, and Resource Issues, Agricultural and Applied Economics Association<em>, 38(1-9). 2023  <br> Steinbach, Sandro and **Xiting Zhuang**. <br>[10.22004/ag.econ.337188](https://ageconsearch.umn.edu/record/337188/files/Steinbach_Retaliatory_38.pdf) <br>
+- [**Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry**](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188). <em>Choices: The Magazine of Food, Farm, and Resource Issues, AAEA<em>, 38(1-9). 2023  <br> Steinbach, Sandro and **Xiting Zhuang**. <br>[10.22004/ag.econ.337188](https://ageconsearch.umn.edu/record/337188/files/Steinbach_Retaliatory_38.pdf) <br>
 
 - [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). <em>Logistics Engineering and Management<em>. 2016. <br> **Xiting, Zhuang**. <br> 
 
