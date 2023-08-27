@@ -33,15 +33,18 @@ My economic research focuses on the impact of global supply chain disruptions on
 - **Sep 2014 - May 2017:** Fuzhou University (MS.)
  - **Sep 2010 - June 2014:** Xiamen University, Tan Kah Kee College  (BSc) -->
 ---
-## Selected Publications
 
+<!---
+## Selected Publications
 - [TMC 2022] "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", Zijing Ma, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo.
 <center>
 <img src="/images/rf-siamese_overflow.png" >
 </center>
 <br>
-
 ---
+--> 
+
+
 <br>
 ## News and Updates
 
