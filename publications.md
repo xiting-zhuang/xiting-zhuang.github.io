@@ -24,27 +24,41 @@ title: Publications
 - [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). <em>Logistics Engineering and Management<em>. 2016. <br> **Xiting, Zhuang**.<br> 
 
 ## Working Papers
-- [Global Shipping Container Disruptions and U.S. Agricultural Exports](http://dx.doi.org/10.22004/ag.econ.320397) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang** 
--   [Global Trade Effects of Tightening Environmental Trade Policies in China](https://www.dropbox.com/s/nrx3tob9nk2sxkl/Manuscript%2021-03-01.pdf?dl=0) <br>  Sandro Steinbach and **Xiting Zhuang** 
+
+- [**Global Shipping Container Disruptions and U.S. Agricultural Exports**](http://dx.doi.org/10.22004/ag.econ.320397). Working Paper 2022-04. <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. <br>
+
+- [**Global Trade Effects of Tightening Environmental Trade Policies in China**](https://www.dropbox.com/s/nrx3tob9nk2sxkl/Manuscript%2021-03-01.pdf?dl=0). <br> Sandro Steinbach and **Xiting Zhuang**. <br>
 
 ## Work in Progress
-- Covid-19 Pandemic on International Trade: Evidence from China
-- “After Maths of the Basel Convention: The Trade Effects of Environmental Provisions in Pref- erential Trade Agreements.”
-- “Environmental Standard, Waste Backhaul and Maritime Trade.”, with Sandro Steinbach. [link]
-- “The Role of Clientele Politics on Agricultural Subsidies.”, with Sandro Steinbach.
+- Covid-19 Pandemic on International Trade: Evidence from China, with Sandro Steinbach.<br> 
+
+- After Maths of the Basel Convention: The Trade Effects of Environmental Provisions in Pref- erential Trade Agreements. <br>
+
+- “Environmental Standard, Waste Backhaul and Maritime Trade.”, with Sandro Steinbach. <br>
+
+- “The Role of Clientele Politics on Agricultural Subsidies.”, with Sandro Steinbach. <br>
 
 
 ## Outreach and Other Publications
-- Sandro Steinbach and **Xiting Zhuang**. “[Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)”, Southern Ag Today. 2(4.5). 2023.  
-- Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. “[International Market Concentration in the Southern Meat Trading Market.](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)”, Southern Ag Today. 2(29.4). 2022.  
-- Sandro Steinbach and **Xiting Zhuang**. “[Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)”, Southern Ag Today. 2(17.4). 2022.  
-- Sandro Steinbach and **Xiting Zhuang**. “[Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut]((https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0))”, Eversource Energy. 2021  
+
+- Sandro Steinbach and **Xiting Zhuang**. “[Down the River: How the 2022 Mississippi River Drought Damaged Southern U.S. Agricultural Trade](https://southernagtoday.org/2023/05/04/down-the-river-how-the-2022-mississippi-river-drought-damaged/)”, Southern Ag Today. 2(4.5). 2023.  <br>
+
+- Heidi Schweizer, Sandro Steinbach and **Xiting Zhuang**. “[International Market Concentration in the Southern Meat Trading Market.](https://southernagtoday.org/2022/07/international-market-concentration-in-the-southern-meat-trading-market/)”, Southern Ag Today. 2(29.4). 2022.  <br>
+
+- Sandro Steinbach and **Xiting Zhuang**. “[Shipping Container Disruptions Cause Considerable Export Losses for Southern Ports](https://southernagtoday.org/2022/04/shipping-container-disruptions-cause-considerable-export-losses-for-southern-ports/)”, Southern Ag Today. 2(17.4). 2022.  <br>
+
+- Sandro Steinbach and **Xiting Zhuang**. “[Cost-Benefit Analysis of Detection Systems for Protect- ing Critical Infrastructure from UAV Threats in Connecticut]((https://www.dropbox.com/s/hmnrb6rljgsyvei/UConn%20CBA%20Report%202021.pdf?dl=0))”, Eversource Energy. 2021 <br> 
 
 ## Selected Media Coverage
-- “[US Is Losing Soybean-Export Edge as Brazil Closes Logistics Gap](https://www.bloomberg.com/news/articles/2022-09-06/)” Bloomberg, September 6, 2022.
-- “[US Citrus Growers Struggle During Supply Chain Snarl](https://www.theepochtimes.com/)” The Epoch Times, February 16, 2022. 
-- “[Assembly Select Committee on Ports and Goods Movement](https://www.theepochtimes.com/)” California State Assembly Com- mittee on Agriculture, February 2, 2022.
-https://www.assembly.ca.gov/
-- “[“Containergeddon” Results in $2.1B Loss to California Farmers](https://www.wga.com/blog/“containergeddon”)” Western Growers, January 20, 2022.
-- “[Containergeddon Cost Ag $2.1 Billion Last Summer, And Supply Chain Bottlenecks Aren’t Over Yet](https://kvpr.org/business-economy/2022-01-11)”, KVPR, NPR for Central California, January 11, 2022. 
+
+- “[US Is Losing Soybean-Export Edge as Brazil Closes Logistics Gap](https://www.bloomberg.com/news/articles/2022-09-06/)” Bloomberg, September 6, 2022.<br>
+
+- “[US Citrus Growers Struggle During Supply Chain Snarl](https://www.theepochtimes.com/)” The Epoch Times, February 16, 2022. <br>
+
+- “[Assembly Select Committee on Ports and Goods Movement](https://www.assembly.ca.gov/)” California State Assembly Committee on Agriculture, February 2, 2022.<br>
+
+- “[“Containergeddon” Results in $2.1B Loss to California Farmers](https://www.wga.com/blog/“containergeddon”)” Western Growers, January 20, 2022.<br>
+
+- “[Containergeddon Cost Ag $2.1 Billion Last Summer, And Supply Chain Bottlenecks Aren’t Over Yet](https://kvpr.org/business-economy/2022-01-11)”, KVPR, NPR for Central California, January 11, 2022. <br>
+
 - “[Inefficient California Ports Cost Farmers Billions.](https://today.uconn.edu/2022/01/)”, UConn Today, January 3, 2022. 
