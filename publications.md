@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
-classes: wide
 
 ---
 
@@ -16,13 +15,13 @@ classes: wide
 
 - [**U.S. Agricultural Exports and the 2022 Mississippi River Drought**](https://ageconsearch.umn.edu/record/335476/files/26473.pdf). <em>Agribusiness<em>, 2023 (Forthcoming). <br> Steinbach, Sandro and **Xiting Zhuang**.<br> 
 
-- [**‘Containergeddon’ and California Agriculture**](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf). University of California Giannini Foundation of Agricultural, University of California, Davis. 2021. <em>ARE Update<em> 25(2): 1–4.   <br> Carter, Colin A. Carter, Sandro Steinbach, and **Xiting Zhuang**. <br> [https://giannini.ucop.edu/filer/file/1640021835/20297/](https://giannini.ucop.edu/filer/file/1640021835/20297/) <br>
+- [**‘Containergeddon’ and California Agriculture**](https://s.giannini.ucop.edu/uploads/pub/2021/12/20/v25n2_1.pdf). University of California Giannini Foundation of Agricultural, University of California, Davis. 2021. <em>ARE Update<em> 25(2): 1–4.   <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. <br> [https://giannini.ucop.edu/filer/file/1640021835/20297/](https://giannini.ucop.edu/filer/file/1640021835/20297/) <br>
 
 - [**A Portrait of Firms that Trade in Meat Products**](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6). <em>Western Economics Forum<em>. <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**, 2022. <br>[10.22004/ag.econ.329728](https://ageconsearch.umn.edu/record/329728) <br>
 
 - [**Retaliatory Tariffs and Container Shipping Disruptions Cause Considerable Trade Damages to California’s Almond Industry**](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F337188%2Ffiles%2FSteinbach_Retaliatory_38.pdf;h=repec:ags:aaeach:337188). <em>Choices: The Magazine of Food, Farm, and Resource Issues, Agricultural and Applied Economics Association<em>, 38(1-9). 2023  <br> Steinbach, Sandro and **Xiting Zhuang**. <br>[10.22004/ag.econ.337188](https://ageconsearch.umn.edu/record/337188/files/Steinbach_Retaliatory_38.pdf) <br>
 
-- [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). <em>Logistics Engineering and Management<em>. 2016. <br> **Xiting, Zhuang**., <br> 
+- [**Urbanization Process and Carbon Emission in China Based on Semi-Parametric Spatial Lags Model**](). <em>Logistics Engineering and Management<em>. 2016. <br> **Xiting, Zhuang**.<br> 
 
 ## Working Papers
 - [Global Shipping Container Disruptions and U.S. Agricultural Exports](http://dx.doi.org/10.22004/ag.econ.320397) <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang** 
