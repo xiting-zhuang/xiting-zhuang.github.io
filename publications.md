@@ -16,7 +16,7 @@ classes: wide
 
 - [**A Portrait of Firms that Trade in Meat Products**](https://waeaonline.org/wp-content/uploads/2022/12/WEF-Fall-2022-Issue-20-Volume-2-All-Intro-and-Articles.pdf#page=6)  <em>Western Economics Forum<em>. 2022.  <br> Schweizer, Heidi, Sandro Steinbach and **Xiting Zhuang**. <br>
 
-- [The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories](https://doi.org/10.1002/agr.21809) <br> Steinbach, Sandro and **Xiting Zhuang**. <br> <em>Agribusiness<em>. 2023.  
+- [The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories](https://doi.org/10.1002/agr.21809) <em>Agribusiness<em>. 2023.  <br> Steinbach, Sandro and **Xiting Zhuang**. [https://doi.org/10.1002/agr.21809](https://doi.org/10.1002/agr.21809) <br>
 
 - [U.S. Agricultural Exports and the 2022 Mississippi River Drought](https://ageconsearch.umn.edu/record/335476/files/26473.pdf) <br> Steinbach, Sandro and **Xiting Zhuang**. “U.S. Agricultural Exports and the 2022 Mississippi River Drought.”, <br> <em>Agribusiness<em>, 2023 (Forthcoming).  
 
