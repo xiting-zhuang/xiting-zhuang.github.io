@@ -29,7 +29,7 @@ title: Publications
 
 - [**Global Shipping Container Disruptions and U.S. Agricultural Exports**](http://dx.doi.org/10.22004/ag.econ.320397). Working Paper 2022-04. <br> Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. <br>
 
-- [**Global Trade Effects of Tightening Environmental Trade Policies in China**](https://www.dropbox.com/s/nrx3tob9nk2sxkl/Manuscript%2021-03-01.pdf?dl=0). <br> Sandro Steinbach and **Xiting Zhuang**. <br>
+- [**Global Trade Effects of Tightening Environmental Trade Policies in China**]([https://www.dropbox.com/s/nrx3tob9nk2sxkl/Manuscript%2021-03-01.pdf?dl=0](https://www.dropbox.com/scl/fi/21o4ldsv04zo4w7bs6y5w/Manuscript.pdf?rlkey=phzrh7uhti8zm0wxpn786gu94&dl=0)). <br> Sandro Steinbach and **Xiting Zhuang**. <br>
 
 ## Work in Progress
 - Covid-19 Pandemic on International Trade: Evidence from China, with Sandro Steinbach.<br> 
