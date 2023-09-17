@@ -5,7 +5,7 @@ layout: page
 <br>
 ## About Me
 
-Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm a Ph.D candidate in **Agricultural and Resource Economics** at the University of Connecticut, concurrently pursuing a Master's degree in **Computer Science** with a specialization in Machine Learning at the Georgia Institute of Technology. I bridge the realms of economics and technology by applying advanced computational techniques to unravel intricate patterns and insights within global agri-food trade dynamic. Currently, I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
+Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm currently a Ph.D. candidate in Agricultural and Resource Economics at the University of Connecticut. Alongside, I'm working towards a Master's degree in Computer Science with a focus on Machine Learning at the Georgia Institute of Technology. This dual academic pursuit enables me to blend the realms of economics and technology seamlessly. I apply advanced computational techniques to dissect complex patterns and uncover significant insights within various economic phenomena, with a particular emphasis on causal inference in economics. Currently, I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
 <!---and working as a research assistant in the Computer Science and Engineering Department at UConn-->
 <br>
 <div class="image-container">
@@ -16,12 +16,12 @@ Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/Xitin
 <br>
 ## Research Interests
 
+- Causal Inference
 - Supply Chain
 - International Trade
 - Environmental Economics
-- Causal Inference
  
-My economic research focuses on the impact of global supply chain disruptions on agri-food trade. Leveraging skills in economics, machine learning, and programming, I uncover insights into the complex challenges of international trade, supply chain, and environemtal economics. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions".
+My economic research focuses on the impact of global supply chain disruptions on agri-food trade. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions".
 <br>
 
 <!--
