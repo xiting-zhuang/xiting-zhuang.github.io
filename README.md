@@ -4,7 +4,7 @@ Welcome to the official website of **Xiting Zhuang**.
 
 ## Latest Updates and News
 
-- **August 2023:** I am excited to announce the successful implementation and deployment of my personal website. You can explore it at [www.xitingzhuang.com](http://www.xitingzhuang.com). This project was inspired by [Hanlin Cai](https://github.com/GuangLun2000/GuangLun2000.github.io).
+- **August 2023:** I am excited to announce the successful implementation and deployment of my personal website. You can explore it at [xiting-zhuang.github.io](http://xiting-zhuang.github.io). This project was inspired by [Hanlin Cai](https://github.com/GuangLun2000/GuangLun2000.github.io).
 
 ## Statement
 
