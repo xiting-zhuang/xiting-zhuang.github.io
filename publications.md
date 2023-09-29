@@ -9,7 +9,7 @@ title: Publications
 
 - [**Supply Chain Disruptions and Containerized Agricultural Exports From California Ports**](https://doi.org/10.1002/aepp.13311). <em>Applied Economic Perspectives and Policy<em>, 45(2), 1051-1071. <br>  Carter, Colin A., Sandro Steinbach, and **Xiting Zhuang**. [https://doi.org/10.1002/aepp.13311](https://doi.org/10.1002/aepp.13311) <br>
 
-- [**Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje69eghNX8AhXokYkEHWQsBCAQFnoECBgQAQ&url=https%3A%2F%2Fwww.aeaweb.org%2Fconference%2F2023%2Fprogram%2Fpaper%2F9b9y39sR&usg=AOvVaw3gBn65ltqGdSrvv1mvi78O). <em>Applied Economic Perspectives and Policy<em> (Forthcoming). <br> Steinbach, Sandro and **Xiting Zhuang**. <br> [10.22004/ag.econ.329894](http://dx.doi.org/10.22004/ag.econ.329894)<br>  
+- [**Global Container Shipping Disruptions, Pop-Up Ports, and U.S. Agricultural Exports**](http://doi.org/10.1002/aepp.13399). <em>Applied Economic Perspectives and Policy<em> 1-19. <br> Steinbach, Sandro and **Xiting Zhuang**. <br> [http://doi.org/10.1002/aepp.13399](http://doi.org/10.1002/aepp.13399)<br>  
 
 - [**The Impact of Maritime Shipping Disruptions on U.S. Tree Nut Exports and Inventories**](https://doi.org/10.1002/agr.21809). <em>Agribusiness<em>. 2023. <br> Steinbach, Sandro and **Xiting Zhuang**. <br>[https://doi.org/10.1002/agr.21809](https://doi.org/10.1002/agr.21809) <br>
 
