@@ -9,7 +9,8 @@ title: Projects
  
  
 
-## Artificial Intelligence for Robotics -- Meteorites Projec.
+## Artificial Intelligence for Robotics -- Meteorites Project.
+The project aimed to create a dynamic system for localizing and intercepting falling meteorites. Meteorites could appear anywhere on the screen, with constraints on the turret's rotation per timestamp. The turret could perform either rotation or firing, but not both simultaneously. Kalman Filters played a crucial role in optimizing tracking accuracy. The project highlighted the efficacy of this approach in dynamic, resource-constrained environments, demonstrating its potential for real-world applications in celestial object interception technology.
 <center>
 <img src="/images/Meteorites.gif" >
 </center>
