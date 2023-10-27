@@ -4,12 +4,43 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## RFID-based and few-shot gesture recognition system.
-- [TMC 2022] "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", Zijing Ma, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo.
+## Census Trade Data Scraper for Chinese Customs Data. 
+- The Census Trade Data Scraper is a cutting-edge tool engineered to retrieve and analyze trade data from the Chinese Customs database. This innovative system not only enables real-time data extraction but also surpasses slide authentication barriers, ensuring seamless access to critical trade information. Each run of the scraper can effortlessly download up to 50,000 samples, exponentially increasing the efficiency of data acquisition. The tool further streamlines the process by performing batch conversions to both CSV and Stata file formats.
+
+
+
+Certainly! Here's the revised description:
+
+## Census Trade Data Scraper for Chinese Customs Data.
+- [Your Project Year] [Title of Published Work / Report], [Authors], [Collaborators/Institution (if applicable)]
+
+**Project Description:**
+
+The Census Trade Data Scraper is a cutting-edge tool engineered to retrieve and analyze trade data from the Chinese Customs database. This innovative system not only enables real-time data extraction but also surpasses slide authentication barriers, ensuring seamless access to critical trade information. Each run of the scraper can effortlessly download up to 50,000 samples, exponentially increasing the efficiency of data acquisition. The tool further streamlines the process by performing batch conversions to both CSV and Stata file formats.
+
+**Key Features:**
+
+- **Slide Authentication Bypass:** The scraper has been enhanced to overcome slide authentication challenges, guaranteeing uninterrupted access to the desired data.
+
+- **High-Volume Data Retrieval:** With the capability to download 50,000 samples per run, the scraper significantly boosts the efficiency of data acquisition compared to the standard 5,000 sample limit.
+
+- **Dual-Language Implementation:** Leveraging the power of JavaScript and Python, this scraper seamlessly combines the strengths of both languages for optimal performance.
+
+- **Data Format Flexibility:** The tool offers the flexibility to save extracted data in both CSV and Stata file formats, catering to a wide range of analytical preferences.
+
+- **Customizable Parameters:** Users have the ability to fine-tune parameters such as time frames, product categories, and trading partners, tailoring the data extraction to their specific requirements.
+ 
+
 <center>
 <img src="/images/rf-siamese_overflow.png" >
 </center>
 <br>
+
+
+
+
+<!--
+
 
 ## RFID-based and real-time gesture recognition system.
 - [TMC 2022] "Real-time and Accurate Gesture Recognition with Commercial RFID Devices", Shigeng Zhang, Zijing Ma, Chengwei Yang, Xiaoyan Kui, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo
@@ -39,7 +70,6 @@ title: Projects
 <br>
 
 
-<!--
 # Open-source Projects
 
 <br>
