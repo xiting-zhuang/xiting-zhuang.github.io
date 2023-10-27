@@ -15,12 +15,7 @@ title: Projects
 - **Data Format Flexibility:** The tool offers the flexibility to save extracted data in both CSV and Stata file formats, catering to a wide range of analytical preferences.
 - **Customizable Parameters:** Users have the ability to fine-tune parameters such as time frames, product categories, and trading partners, tailoring the data extraction to their specific requirements.
  
-
-<center>
-<img src="/images/rf-siamese_overflow.png" >
-</center>
-<br>
-
+ 
 
 
 
