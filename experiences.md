@@ -5,9 +5,10 @@ title: Experiences
 ---
 
 ## Journal/Conference Referee
+- Oxford Bulletin of Economics and Statistics
 - International Food and Agribusiness Management Review 
 - Journal of the Agricultural and Applied Economics Association
-- AAEA
+- Agricultural & Applied Economics Association
 <br>
 
 ## Honors, Awards, & Fellowships
