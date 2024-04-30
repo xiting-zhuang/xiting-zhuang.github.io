@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.4)  17 FEB 2024 08:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.4)  29 APR 2024 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -327,16 +327,16 @@ Overfull \hbox (25.71085pt too wide) in paragraph at lines 100--112
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 190.
+(Font)              <7> on input line 187.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 190.
+(Font)              <5> on input line 187.
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 [2]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-23.
+27.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ) [3] [4]
@@ -362,10 +362,10 @@ l/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/
 texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/te
 xlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texl
 ive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on XitingZhuang-CV.pdf (6 pages, 233074 bytes).
+Output written on XitingZhuang-CV.pdf (6 pages, 229268 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
+ 139 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
