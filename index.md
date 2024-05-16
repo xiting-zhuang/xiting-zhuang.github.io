@@ -5,7 +5,7 @@ layout: page
 <br>
 ## About Me
 
-Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm currently a Ph.D. candidate in **Agricultural and Resource Economics** at the University of Connecticut. I will be joining Agrilife Research at Texas A&M University as a postdoctoral Research Assosicate. My economic research focuses on the impact of global supply chain disruptions on agri-food trade. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions". I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
+Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf))**. I'm currently a Ph.D. candidate in **Agricultural and Resource Economics** at the University of Connecticut. My economic research focuses on the impact of global supply chain disruptions on agri-food trade. My dissertation paper is titled "Agri-food trade in times of supply chain disruptions". I am under the supervision of [Prof. Sandro Steinbach](https://www.sandrosteinbach.com/team/dr-sandro-steinbach). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).
 
 
  
