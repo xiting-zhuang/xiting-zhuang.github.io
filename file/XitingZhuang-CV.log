@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.20)  31 AUG 2024 01:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.13)  16 MAR 2025 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,20 +329,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--104
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+
 Overfull \hbox (25.38919pt too wide) in paragraph at lines 100--112
 [][] [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 184.
+(Font)              <7> on input line 174.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 184.
+(Font)              <5> on input line 174.
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] [3] [4]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 46
-9.
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 47
+3.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -356,23 +361,23 @@ Package rerunfilecheck Info: File `XitingZhuang-CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9670 strings out of 474116
- 148738 string characters out of 5743682
+ 9667 strings out of 474116
+ 148708 string characters out of 5743682
  1940187 words of memory out of 5000000
- 31919 multiletter control sequences out of 15000+600000
- 595539 words of font info for 64 fonts, out of 8000000 for 9000
+ 31918 multiletter control sequences out of 15000+600000
+ 592736 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,489b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,487b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/
 local/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texl
 ive/2024/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2024/
 texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
 e1/urw/times/utmri8a.pfb>
-Output written on XitingZhuang-CV.pdf (5 pages, 89849 bytes).
+Output written on XitingZhuang-CV.pdf (5 pages, 91644 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 90 compressed objects within 1 object stream
- 21 named destinations out of 1000 (max. 500000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
