@@ -1,34 +1,110 @@
-/* Headings ============================================== */
+/* Modern Headings ======================================= */
 h1, h2, h3, h4, h5, h6 {
 	font-family: @baseheadingfont;
-	font-weight: 700;
-}
-h6 {
-	font-weight: 400;
+	font-weight: 600;
+	line-height: 1.3;
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	color: @textcolor;
+	letter-spacing: -0.025em;
 }
 
-/* Links ================================================= */
+h1 { 
+	font-size: 2.5rem; 
+	font-weight: 700;
+	line-height: 1.2;
+	margin-bottom: 0.75em;
+}
+
+h2 { 
+	font-size: 2rem; 
+	margin-bottom: 0.65em;
+	border-bottom: 2px solid @bordercolor-light;
+	padding-bottom: 0.5rem;
+}
+
+h3 { 
+	font-size: 1.5rem; 
+	margin-bottom: 0.6em;
+}
+
+h4 { 
+	font-size: 1.25rem; 
+	margin-bottom: 0.55em;
+}
+
+h5 { 
+	font-size: 1.125rem; 
+	margin-bottom: 0.5em;
+}
+
+h6 { 
+	font-size: 1rem; 
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	color: @textcolor-light;
+}
+
+/* Modern Links ========================================== */
 a { 
+	color: @linkcolor;
 	text-decoration: none;
-	color: @linkcolor; 
+	transition: all 0.2s ease;
+	border-radius: 2px;
+	
+	&:hover { 
+		color: @linkcolorhover;
+		text-decoration: underline;
+		text-decoration-color: fade(@linkcolor, 50%);
+		text-underline-offset: 3px;
+	}
+	
+	&:focus { 
+		outline: 2px solid fade(@accentcolor, 50%);
+		outline-offset: 2px;
+		color: @linkcolorfocus;
+	}
+	
 	&:visited { 
 		color: @linkcolorvisited; 
 	}
-	&:hover { 
-		color: @linkcolorhover; 
-	}
-	&:focus { 
-		outline: thin dotted; 
-		color: @linkcolorfocus; 
-	}
-	&:hover, 
-	&:active { 
-		outline: 0; 
-	}
 }
 
+/* Text Emphasis ======================================== */
 b, strong { 
-	font-weight: 700;
+	font-weight: 600;
+}
+
+em {
+	font-style: italic;
+	color: @textcolor;
+}
+
+/* Code Styling ========================================= */
+code {
+	font-family: @codefont;
+	font-size: 0.875em;
+	background: @bg-secondary;
+	padding: 0.2em 0.4em;
+	border-radius: @border-radius-sm;
+	color: @textcolor;
+	border: 1px solid @bordercolor-light;
+}
+
+pre {
+	background: @bg-secondary;
+	border: 1px solid @bordercolor;
+	border-radius: @border-radius-md;
+	padding: 1rem;
+	overflow-x: auto;
+	
+	code {
+		background: none;
+		border: none;
+		padding: 0;
+		font-size: 0.9em;
+	}
 }
 
 /* Lists ============================================== */

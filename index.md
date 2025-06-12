@@ -9,7 +9,9 @@ Hi, I am **Xiting Zhuang ([庄曦庭](https://xiting-zhuang.github.io/file/Xitin
 
 My research focuses on **global supply chain disruptions**, **agri-food trade**, and **sustainability**, with a particular interest in how evolving international policies and economic shocks shape global food systems. By incorporating **big data analytics** and **machine learning techniques**, I aim to uncover insights that inform resilient and sustainable trade strategies.  
 
-This site serves as a platform to share my research, professional experiences, and collaborations. If you are interested in my work or exploring opportunities for collaboration, feel free to reach out to me at [xiting.zhuang@ndsu.edu](mailto:xiting.zhuang@ndsu.edu). Here is [my CV](https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf).  
+This site serves as a platform to share my research, professional experiences, and collaborations. If you are interested in my work or exploring opportunities for collaboration, feel free to reach out to me at [xiting.zhuang@ndsu.edu](mailto:xiting.zhuang@ndsu.edu). 
+
+<a href="https://xiting-zhuang.github.io/file/XitingZhuang-CV.pdf" class="btn btn-primary">📄 View My CV</a>  
 
 
  

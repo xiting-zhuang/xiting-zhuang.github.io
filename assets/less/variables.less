@@ -1,19 +1,46 @@
 // TYPOGRAPHY ================================================
-@basefont: 'PT Serif', serif;
-@baseheadingfont: 'PT Sans Narrow', sans-serif;
-@codefont: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
+@basefont: 'Inter', 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+@baseheadingfont: 'Inter', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+@codefont: 'JetBrains Mono', 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
 
-// COLOR ====================================================
-@bodycolor      : #fff;
-@textcolor      : #333332;
-@basecolor 		: #343434;	  
-@compcolor 		: spin(@basecolor, 180); 
-@bordercolor    : @basecolor;
-@white          : #fff;
-@black          : #000;
-@accentcolor    : @black;
+// MODERN COLOR PALETTE =====================================
+@bodycolor      : #ffffff;
+@textcolor      : #1a1a1a;
+@textcolor-light: #6b7280;
+@basecolor 		: #111827;	  
+@compcolor 		: #3b82f6; // Modern blue accent
+@bordercolor    : #e5e7eb;
+@bordercolor-light: #f3f4f6;
+@white          : #ffffff;
+@black          : #000000;
+@accentcolor    : #3b82f6; // Primary blue
+@accentcolor-hover: #2563eb;
+@successcolor   : #10b981;
+@warningcolor   : #f59e0b;
+@errorcolor     : #ef4444;
+
+// BACKGROUND COLORS
+@bg-primary     : #ffffff;
+@bg-secondary   : #f9fafb;
+@bg-tertiary    : #f3f4f6;
+
 /* Links ================================================= */
-@linkcolor 		    : #343434;
-@linkcolorhover 	: darken(@linkcolor, 10);
-@linkcolorvisited   : lighten(@linkcolorhover, 20);
-@linkcolorfocus 	: darken(@linkcolorvisited, 10);
+@linkcolor 		    : @accentcolor;
+@linkcolorhover 	: @accentcolor-hover;
+@linkcolorvisited   : #8b5cf6;
+@linkcolorfocus 	: @accentcolor-hover;
+
+// SPACING & LAYOUT ======================================
+@base-spacing   : 1rem;
+@content-width  : 1200px;
+@sidebar-width  : 280px;
+
+// SHADOWS & EFFECTS =====================================
+@shadow-sm      : 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+@shadow-md      : 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+@shadow-lg      : 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+// BORDER RADIUS =========================================
+@border-radius-sm: 0.375rem;
+@border-radius-md: 0.5rem;
+@border-radius-lg: 0.75rem;
