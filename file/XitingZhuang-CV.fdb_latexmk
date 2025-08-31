@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1756668962.22193 "/Users/xiting/Library/CloudStorage/Dropbox-GaTech/Xiting Zhuang/Github/xiting-zhuang.github.io/file/XitingZhuang-CV.tex" "XitingZhuang-CV.pdf" "XitingZhuang-CV" 1756668962.62259 0
-  "/Users/xiting/Library/CloudStorage/Dropbox-GaTech/Xiting Zhuang/Github/xiting-zhuang.github.io/file/XitingZhuang-CV.tex" 1756668961.9533 14892 9e3d35594f3b783a27fd9095abda1658 ""
+["pdflatex"] 1756669542.1896 "/Users/xiting/Library/CloudStorage/Dropbox-GaTech/Xiting Zhuang/Github/xiting-zhuang.github.io/file/XitingZhuang-CV.tex" "XitingZhuang-CV.pdf" "XitingZhuang-CV" 1756669542.56863 0
+  "/Users/xiting/Library/CloudStorage/Dropbox-GaTech/Xiting Zhuang/Github/xiting-zhuang.github.io/file/XitingZhuang-CV.tex" 1756669541.98204 15583 b60113ced97b0144be3f70e1b5539189 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -79,9 +79,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1756408357 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "XitingZhuang-CV.aux" 1756668962.59535 162 f0fda7573680236e99560fa2ea99f7ba "pdflatex"
-  "XitingZhuang-CV.out" 1756668962.45747 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "XitingZhuang-CV.tex" 1756668961.9533 14892 9e3d35594f3b783a27fd9095abda1658 ""
+  "XitingZhuang-CV.aux" 1756669542.54005 162 f042405b684a8c860cba07045d113040 "pdflatex"
+  "XitingZhuang-CV.out" 1756669542.41203 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "XitingZhuang-CV.tex" 1756669541.98204 15583 b60113ced97b0144be3f70e1b5539189 ""
   (generated)
   "XitingZhuang-CV.aux"
   "XitingZhuang-CV.log"
