@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  1 OCT 2025 01:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 OCT 2025 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,9 +422,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 247.
+(Font)              <8> on input line 249.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 247.
+(Font)              <6> on input line 249.
 
 
 [3]
@@ -448,13 +448,13 @@ Here is how much of TeX's memory you used:
  33057 multiletter control sequences out of 15000+600000
  603240 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,271b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,79p,325b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texli
 ve/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-dist/f
 onts/type1/urw/times/utmri8a.pfb>
-Output written on XitingZhuang-CV.pdf (6 pages, 81785 bytes).
+Output written on XitingZhuang-CV.pdf (6 pages, 82125 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
