@@ -13,14 +13,14 @@ owner:
   name: Xiting Zhuang
   avatar: xiting_formal.jpg
 #  bio:
-  email: xiting.zhuang@uconn.edu
+  email: xiting.zhuang@ndsu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: XitingZhuang
-  # facebook: caihanlin2002
+  # facebook:
   github: xiting-zhuang
   linkedin: xiting-zhuang
   scholar: https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en&oi=ao
-  # instagram: lancecai2002
+  # instagram:
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -84,13 +84,12 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: xiting-zhuang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/08/01 by Xiting Zhuang.
-# URL: https://caihanlin.com/
+# Latest update by Xiting Zhuang.
 
    
