@@ -35,21 +35,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About Me
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/    
-  - title: Experiences
-    url: /experiences/
-  - title: Contact
-    url: /contact/
-  - title: Projects
-    url: /projects/   
-  - title: CV
-    url: /file/XitingZhuang-CV.pdf
+# Links are now in _data/navigation.yml
+# links:
 
 
 # - title: Blogs

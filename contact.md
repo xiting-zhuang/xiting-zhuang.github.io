@@ -5,14 +5,6 @@ title: Contact
 comments: false
 ---
 
-# Contact Information
-
-<br>
-## Contact 
-
-<div>
-    <img src="/images/shenghuo.jpg" alt="about_meee" width="70%" min-width="700px" itemprop="image">
-</div>
 
 
 <div style="border-left: 2px solid rgba(199, 198, 198, 0.7); margin: 0.5em 0 0 0.5em; padding-left: 1.5em; font-weight: 500;">
@@ -37,9 +29,10 @@ comments: false
 <br>
 ## Chat with me
 
-I have set up the [online-coffee-time](https://calendly.com/xiting-zhuang/online-coffee-time).Welcome to chat with me!
+Welcome to chat with me!
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/xiting-zhuang/online-coffee-time" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<div style="margin-top: 20px;">
+  <a href="mailto:xiting.zhuang@ndsu.edu" class="btn btn-primary" style="text-decoration: none;">
+    <i class="fas fa-envelope"></i> Chat with me via Email
+  </a>
+</div>
