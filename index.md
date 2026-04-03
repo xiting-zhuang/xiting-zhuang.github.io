@@ -32,4 +32,41 @@ title: About Me
   </ul>
 </div>
 
+<hr>
 
+<div class="latest-news">
+  <h2>Latest News</h2>
+  <ul>
+    {% for item in site.data.news limit:5 %}
+      <li><strong>{{ item.date }}:</strong> {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+    {% endfor %}
+  </ul>
+  <p><a href="{{ '/experiences/' | relative_url }}">View all &rarr;</a></p>
+</div>
+
+<hr>
+
+<div class="selected-publications">
+  <h2>Selected Publications</h2>
+  {% assign all_pubs = site.data.publications %}
+  {% assign recent_pubs = "" | split: "" %}
+  {% for pub in all_pubs %}
+    {% if pub.year == "2025" or pub.year == "2024" %}
+      {% assign recent_pubs = recent_pubs | push: pub %}
+    {% endif %}
+  {% endfor %}
+  {% for pub in recent_pubs %}
+    <div class="publication-item">
+      <h3 class="publication-title">
+        {% if pub.url != "" %}
+          <a href="{{ pub.url }}" target="_blank">{{ pub.title }}</a>
+        {% else %}
+          {{ pub.title }}
+        {% endif %}
+      </h3>
+      <p class="journal"><em>{{ pub.journal }}</em></p>
+      <p class="authors">{{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    </div>
+  {% endfor %}
+  <p><a href="{{ '/publications/' | relative_url }}">View all publications &rarr;</a></p>
+</div>

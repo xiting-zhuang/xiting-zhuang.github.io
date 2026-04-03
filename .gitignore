@@ -1,3 +1,14 @@
+# Jekyll (legacy)
 _site/
 vendor/
 .bundle/
+
+# Next.js
+.next/
+out/
+node_modules/
+
+# misc
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts

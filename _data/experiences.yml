@@ -8,6 +8,20 @@ professional:
     location: College Station, TX
     period: Feb 2024 – Oct 2024
 
+education:
+  - degree: Ph.D. in Agricultural and Resource Economics
+    institution: University of Connecticut
+    location: Storrs, CT
+    period: 2018 – 2024
+  - degree: M.S. in Economics
+    institution: Xiamen University
+    location: Xiamen, China
+    period: 2014 – 2017
+  - degree: B.A. in Economics
+    institution: Xiamen University
+    location: Xiamen, China
+    period: 2010 – 2014
+
 honors:
   - title: Conference Participation Award
     issuer: Graduate School, University of Connecticut
