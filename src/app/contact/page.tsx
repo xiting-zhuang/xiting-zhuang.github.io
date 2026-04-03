@@ -18,7 +18,7 @@ const contacts = [
   {
     label: "Google Scholar",
     value: "Scholar Profile",
-    href: "https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en",
+    href: "https://scholar.google.com/citations?user=7DWbsPUAAAAJ&hl=en",
     icon: "🎓",
   },
   {

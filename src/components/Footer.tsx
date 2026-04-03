@@ -13,7 +13,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://scholar.google.com/citations?user=gSddLM4AAAAJ&hl=en"
+            href="https://scholar.google.com/citations?user=7DWbsPUAAAAJ&hl=en"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-text-secondary transition-colors"
