@@ -47,7 +47,7 @@ export default function Home() {
                     <span className="text-text-muted">// </span>North Dakota State University
                   </p>
                   <p className="text-sm text-text-secondary leading-relaxed mt-3 max-w-xl">
-                    I am a <span className="text-text-primary font-medium">Research Assistant Professor</span> studying how <span className="text-text-primary font-medium">supply chain disruptions</span>, <span className="text-text-primary font-medium">trade policy</span>, and <span className="text-text-primary font-medium">economic shocks</span> affect agricultural markets and social outcomes. <span className="text-text-primary font-medium">Big data analytics</span>, <span className="text-text-primary font-medium">text mining</span>, and other computational tools support this research agenda. Also pursuing M.S. in CS at Georgia Tech.
+                    I am a <span className="text-text-primary font-medium">Research Assistant Professor</span> studying how <span className="text-text-primary font-medium">supply chain disruptions</span>, <span className="text-text-primary font-medium">trade policy</span>, and <span className="text-text-primary font-medium">economic shocks</span> affect agricultural markets and social outcomes. <span className="text-text-primary font-medium">Big data analytics</span>, <span className="text-text-primary font-medium">text mining</span>, and other computational tools support this research agenda.
                   </p>
                   <div className="font-mono text-xs mt-3">
                     <span className="text-text-muted">focus: </span>
