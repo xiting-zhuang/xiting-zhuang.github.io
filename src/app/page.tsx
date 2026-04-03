@@ -2,21 +2,56 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import TypeWriter from "@/components/TypeWriter";
 import ScrollReveal from "@/components/ScrollReveal";
+import AnimatedCounter from "@/components/AnimatedCounter";
 import { news } from "@/data/news";
 import { publications } from "@/data/publications";
 
+const Globe = dynamic(() => import("@/components/Globe"), {
+  ssr: false,
+  loading: () => (
+    <div className="w-full h-[500px] flex items-center justify-center">
+      <div className="w-6 h-6 border-2 border-accent-green/30 border-t-accent-green rounded-full animate-spin" />
+    </div>
+  ),
+});
+
 const researchInterests = [
   "Causal Inference",
-  "International Trade",
   "Supply Chain Disruptions",
-  "Environmental Economics",
+  "Social Issues & Public Policy",
+  "International Trade",
+  "Applied Microeconomics",
+];
+
+const researchAreas = [
+  {
+    name: "Causal Inference",
+    icon: "⚡",
+    desc: "Regression discontinuity, difference-in-differences, and quasi-experimental methods to identify causal effects in trade and social policy.",
+  },
+  {
+    name: "Supply Chain Disruptions",
+    icon: "🚢",
+    desc: "Container shipping crises, port congestion, Mississippi River drought, and their cascading effects on U.S. agricultural exports.",
+  },
+  {
+    name: "Social Issues",
+    icon: "🏛",
+    desc: "Domestic violence, child abuse, gender equality, and how economic shocks and cultural norms shape social outcomes.",
+  },
+  {
+    name: "Trade Policy",
+    icon: "📊",
+    desc: "U.S.–China tariff escalation, IEEPA tariffs, and pass-through effects on food and agricultural input markets.",
+  },
 ];
 
 export default function Home() {
   const recentPubs = publications.filter(
-    (p) => p.year === "2025" || p.year === "2024"
+    (p) => p.year === "2025" || p.year === "2024" || p.year === "2026"
   );
 
   return (
@@ -40,24 +75,21 @@ export default function Home() {
               </div>
 
               <p className="text-text-secondary leading-relaxed max-w-xl">
-                My research focuses on{" "}
+                I use{" "}
                 <span className="text-text-primary font-medium">
-                  global supply chain disruptions
-                </span>
-                ,{" "}
-                <span className="text-text-primary font-medium">
-                  agri-food trade
-                </span>
-                , and{" "}
-                <span className="text-text-primary font-medium">
-                  sustainability
-                </span>
-                . I combine econometrics with{" "}
-                <span className="text-text-primary font-medium">
-                  big data analytics and machine learning
+                  causal inference
                 </span>{" "}
-                to uncover insights that inform resilient trade strategies.
-                Currently also pursuing an M.S. in Computer Science at Georgia Tech.
+                methods to study how{" "}
+                <span className="text-text-primary font-medium">
+                  supply chain disruptions
+                </span>{" "}
+                reshape global agricultural trade and how economic shocks affect{" "}
+                <span className="text-text-primary font-medium">
+                  social outcomes
+                </span>
+                {" "}— from domestic violence to child welfare. My work bridges
+                applied microeconomics, trade policy, and computational methods
+                including machine learning and big data analytics.
               </p>
 
               <div className="font-mono text-sm">
@@ -80,7 +112,7 @@ export default function Home() {
                   target="_blank"
                   className="px-5 py-2.5 border border-border text-text-secondary rounded font-mono text-sm hover:border-text-muted hover:text-text-primary transition-all"
                 >
-                  View CV
+                  CV
                 </a>
                 <a
                   href="mailto:xiting.zhuang@ndsu.edu"
@@ -141,6 +173,67 @@ export default function Home() {
                 </div>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Research Areas */}
+      <section className="py-20">
+        <div className="max-w-6xl mx-auto px-6">
+          <ScrollReveal>
+            <h2 className="font-mono text-sm text-accent-green tracking-widest uppercase mb-8">
+              Research Areas
+            </h2>
+          </ScrollReveal>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {researchAreas.map((area, i) => (
+              <ScrollReveal key={i} delay={i * 0.1}>
+                <div className="p-6 rounded border border-border bg-bg-surface/50 card-hover group">
+                  <div className="flex items-center gap-3 mb-3">
+                    <span className="text-2xl">{area.icon}</span>
+                    <h3 className="font-mono text-sm font-semibold text-text-primary group-hover:text-accent-green transition-colors">
+                      {area.name}
+                    </h3>
+                  </div>
+                  <p className="text-sm text-text-secondary leading-relaxed">
+                    {area.desc}
+                  </p>
+                </div>
+              </ScrollReveal>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Research Footprint Globe */}
+      <section className="py-20">
+        <div className="max-w-6xl mx-auto px-6">
+          <ScrollReveal>
+            <h2 className="font-mono text-sm text-accent-green tracking-widest uppercase mb-8">
+              Research Footprint
+            </h2>
+          </ScrollReveal>
+          <ScrollReveal>
+            <div className="w-full h-[500px] rounded border border-border overflow-hidden bg-bg-primary">
+              <Globe />
+            </div>
+          </ScrollReveal>
+        </div>
+      </section>
+
+      {/* Stats */}
+      <section className="py-20">
+        <div className="max-w-6xl mx-auto px-6">
+          <ScrollReveal>
+            <h2 className="font-mono text-sm text-accent-green tracking-widest uppercase mb-8">
+              By the Numbers
+            </h2>
+          </ScrollReveal>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <AnimatedCounter end={15} suffix="+" label="Publications" />
+            <AnimatedCounter end={9} label="Working Papers" />
+            <AnimatedCounter end={17} suffix="+" label="Conferences" />
+            <AnimatedCounter end={650} prefix="$" suffix="K" label="Grants Funded" />
           </div>
         </div>
       </section>
@@ -210,41 +303,13 @@ export default function Home() {
                         {pub.journal}
                       </p>
                       <p className="text-xs text-text-secondary mt-0.5">
-                        {pub.authors.replace(/Xiting Zhuang/g, "**Xiting Zhuang**")}
+                        {pub.authors}
                       </p>
                     </div>
                     <span className="tag px-2 py-0.5 rounded bg-accent-green/10 text-accent-green border border-accent-green/20 whitespace-nowrap">
                       {pub.year}
                     </span>
                   </div>
-                </div>
-              </ScrollReveal>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Research Interests */}
-      <section className="py-20">
-        <div className="max-w-6xl mx-auto px-6">
-          <ScrollReveal>
-            <h2 className="font-mono text-sm text-accent-green tracking-widest uppercase mb-8">
-              Research Interests
-            </h2>
-          </ScrollReveal>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {[
-              { name: "Causal Inference", icon: "⚡" },
-              { name: "International Trade", icon: "🌐" },
-              { name: "Supply Chain", icon: "📦" },
-              { name: "Environmental Econ", icon: "🌱" },
-            ].map((interest, i) => (
-              <ScrollReveal key={i} delay={i * 0.1}>
-                <div className="p-5 rounded border border-border bg-bg-surface/50 card-hover text-center group">
-                  <div className="text-2xl mb-3">{interest.icon}</div>
-                  <p className="font-mono text-sm text-text-secondary group-hover:text-accent-green transition-colors">
-                    {interest.name}
-                  </p>
                 </div>
               </ScrollReveal>
             ))}
