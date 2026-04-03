@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  16 MAR 2026 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  2 APR 2026 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,7 +329,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 )
 
 LaTeX Warning: Unused global option(s):
-    [10.5pt].
+    [10.8pt].
 
 (./XitingZhuang-Resume.aux)
 \openout1 = `XitingZhuang-Resume.aux'.
@@ -413,9 +413,9 @@ ut line 53.
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 104.
+(Font)              <7> on input line 107.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 104.
+(Font)              <5> on input line 107.
 
 
 [1
@@ -426,11 +426,11 @@ al/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2025
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 193.
+(Font)              <8> on input line 197.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 193.
+(Font)              <6> on input line 197.
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--207
+Underfull \hbox (badness 10000) in paragraph at lines 205--211
 
  []
 
@@ -455,7 +455,7 @@ Package rerunfilecheck Info: File `XitingZhuang-Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  11473 strings out of 473190
  175090 string characters out of 5715801
- 591066 words of memory out of 5000000
+ 591068 words of memory out of 5000000
  34586 multiletter control sequences out of 15000+600000
  608284 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -466,10 +466,10 @@ r/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/t
 exlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/202
 5/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2025/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on XitingZhuang-Resume.pdf (7 pages, 101129 bytes).
+Output written on XitingZhuang-Resume.pdf (7 pages, 101202 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 126 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  23 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
