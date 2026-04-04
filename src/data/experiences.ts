@@ -44,7 +44,7 @@ export const education: Education[] = [
     degree: "M.S. in Computer Science (current)",
     institution: "Georgia Institute of Technology",
     location: "Atlanta, GA",
-    period: "In Progress",
+    period: "2020 – Present",
   },
   {
     degree: "M.S. in Applied and Resource Economics",

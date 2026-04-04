@@ -7,7 +7,7 @@ import AnimatedCounter from "@/components/AnimatedCounter";
 import Timeline from "@/components/Timeline";
 import CitationTicker from "@/components/CitationTicker";
 import EvidencePipeline from "@/components/EvidencePipeline";
-import { publications } from "@/data/publications";
+import { policyBriefs, publications, workingPapers } from "@/data/publications";
 import { showcaseItems, showcaseMethods } from "@/data/projects";
 
 const researchInterests = [
@@ -22,6 +22,8 @@ export default function Home() {
     (p) => p.year === "2025" || p.year === "2024" || p.year === "2026"
   ).slice(0, 5);
   const featuredShowcase = showcaseItems.slice(0, 3);
+  const featuredPolicy = policyBriefs.slice(0, 4);
+  const currentWork = workingPapers.slice(0, 3);
 
   return (
     <div className="dot-grid">
@@ -176,10 +178,95 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ===== ROW 4: Evidence Pipeline ===== */}
+      {/* ===== ROW 4: Policy & Outreach ===== */}
       <section className="py-4">
         <div className="max-w-6xl mx-auto px-6">
-          <EvidencePipeline />
+          <div className="p-4 rounded border border-border bg-bg-surface/30">
+            <div className="flex items-center justify-between mb-3">
+              <p className="font-mono text-xs text-accent-green uppercase tracking-wider">
+                Policy & Outreach
+              </p>
+              <Link
+                href="/publications"
+                className="font-mono text-[10px] text-text-muted hover:text-accent-green transition-colors"
+              >
+                Briefs & outreach →
+              </Link>
+            </div>
+
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+              <div className="lg:col-span-2 space-y-2">
+                {featuredPolicy.map((brief, i) => (
+                  <div
+                    key={i}
+                    className="py-2 border-b border-border/50 last:border-0 pub-item pl-2"
+                  >
+                    <div className="flex items-start justify-between gap-2">
+                      <div className="flex-1 min-w-0">
+                        {brief.url ? (
+                          <a
+                            href={brief.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-xs font-medium text-text-primary hover:text-accent-green transition-colors leading-snug block"
+                          >
+                            {brief.title}
+                          </a>
+                        ) : (
+                          <span className="text-xs font-medium text-text-primary leading-snug block">
+                            {brief.title}
+                          </span>
+                        )}
+                        <p className="text-[10px] text-text-muted font-mono mt-0.5">
+                          {brief.outlet} · {brief.year}
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+
+              <div className="space-y-3">
+                <div className="p-3 rounded border border-border/60 bg-bg-elevated/20">
+                  <p className="font-mono text-[10px] text-text-muted uppercase tracking-wider mb-2">
+                    External Reach
+                  </p>
+                  <div className="space-y-2">
+                    {[
+                      "NDSU Agricultural Trade Monitor",
+                      "Southern Ag Today",
+                      "Farmdoc Daily",
+                    ].map((item) => (
+                      <div key={item} className="flex items-center gap-2">
+                        <span className="w-1.5 h-1.5 rounded-full bg-accent-green/70" />
+                        <p className="text-xs text-text-secondary">{item}</p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+
+                <div className="p-3 rounded border border-border/60 bg-bg-elevated/20">
+                  <p className="font-mono text-[10px] text-text-muted uppercase tracking-wider mb-2">
+                    Research In Progress
+                  </p>
+                  <div className="space-y-2">
+                    {currentWork.map((paper) => (
+                      <div key={paper.title}>
+                        <p className="text-xs text-text-primary leading-snug">
+                          {paper.title}
+                        </p>
+                        {paper.status ? (
+                          <p className="text-[10px] text-text-muted font-mono mt-0.5">
+                            {paper.status}
+                          </p>
+                        ) : null}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -277,15 +364,21 @@ export default function Home() {
               </div>
               <div className="p-4 rounded border border-border bg-bg-surface/30">
                 <p className="font-mono text-xs text-accent-green uppercase tracking-wider mb-3">
-                  Research Profile
+                  Collaborate
                 </p>
                 <div className="space-y-2 text-xs text-text-secondary leading-relaxed">
                   <p>
-                    The main emphasis here is the research agenda itself: trade, supply chains, food policy, and social outcomes.
+                    Open to collaboration on trade, supply chains, food policy, and policy-facing empirical work.
                   </p>
                   <p className="text-text-muted">
-                    Big data and computational methods appear as part of the background and toolkit, not as a separate professional identity.
+                    Especially interested in projects combining causal inference, administrative or trade data, and applied policy questions.
                   </p>
+                  <a
+                    href="mailto:xiting.zhuang@ndsu.edu"
+                    className="inline-flex px-3 py-1.5 border border-border text-text-secondary rounded font-mono text-[10px] hover:text-accent-green hover:border-accent-green/30 transition-all"
+                  >
+                    Get in touch
+                  </a>
                 </div>
               </div>
             </div>
@@ -293,7 +386,24 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ===== ROW 6: Timeline (compact) ===== */}
+      {/* ===== ROW 6: Evidence Pipeline ===== */}
+      <section className="py-4">
+        <div className="max-w-6xl mx-auto px-6">
+          <div className="p-4 rounded border border-border bg-bg-surface/30">
+            <div className="flex items-center justify-between mb-3">
+              <p className="font-mono text-xs text-accent-green uppercase tracking-wider">
+                Research Process
+              </p>
+              <span className="font-mono text-[10px] text-text-muted">
+                supporting visual
+              </span>
+            </div>
+            <EvidencePipeline />
+          </div>
+        </div>
+      </section>
+
+      {/* ===== ROW 7: Timeline (compact) ===== */}
       <section className="py-6">
         <div className="max-w-6xl mx-auto px-6">
           <div className="p-4 rounded border border-border bg-bg-surface/30">

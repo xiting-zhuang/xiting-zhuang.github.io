@@ -37,7 +37,7 @@ const events: TimelineEvent[] = [
     highlights: ["5 Peer-Reviewed Papers", "Predoctoral Fellowship", "AAEA Travel Award"],
   },
   {
-    year: "2024–",
+    year: "2020–",
     title: "M.S. Computer Science",
     subtitle: "Georgia Institute of Technology",
     detail: "Machine learning, AI, and computational methods for economic research.",

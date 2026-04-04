@@ -24,7 +24,7 @@ const COMMANDS: Record<string, string[]> = {
     "North Dakota State University",
     "",
     "Ph.D. Agricultural & Resource Economics, UConn",
-    "M.S. Computer Science, Georgia Tech (current)",
+    "M.S. Computer Science, Georgia Tech (2020-present)",
     "M.S. Quantitative Economics, Fuzhou University",
     "B.A. Accounting, Xiamen University",
   ],
