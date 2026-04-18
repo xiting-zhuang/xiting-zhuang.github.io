@@ -22,6 +22,12 @@ export interface PolicyBrief {
 
 export const publications: Publication[] = [
   {
+    title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China",
+    year: "Accepted",
+    journal: "Journal of Rural Studies",
+    authors: "Zhiyong Dai, Weidong Tian, Minglin Wang, & Xiting Zhuang*",
+  },
+  {
     title: "U.S. public perceptions of food date labeling: Text mining and content analysis of USDA request for information (RFI) responses",
     year: "2026",
     journal: "Food Policy, 140, 103055",
@@ -136,11 +142,6 @@ export const workingPapers: WorkingPaper[] = [
     title: "Tradition or tragedy: Arranged marriages and domestic violence",
     authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
     status: "R&R at International Review of Law & Economics",
-  },
-  {
-    title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China",
-    authors: "Zhiyong Dai, Weidong Tian, & Xiting Zhuang*",
-    status: "R&R at Journal of Rural Studies",
   },
   {
     title: "Bridging language and data: Transforming agricultural curricula for data analytics through linguistic insights",

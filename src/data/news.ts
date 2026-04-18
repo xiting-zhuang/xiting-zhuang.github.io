@@ -5,6 +5,10 @@ export interface NewsItem {
 
 export const news: NewsItem[] = [
   {
+    date: "Apr 2026",
+    content: "Paper accepted: 'The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China' in *Journal of Rural Studies*.",
+  },
+  {
     date: "Feb 2026",
     content: "Paper accepted: 'Machine learning-assisted abstract screening on learning analytics' in Systematic Reviews.",
   },

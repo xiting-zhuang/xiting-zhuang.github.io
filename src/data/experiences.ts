@@ -85,6 +85,9 @@ export const affiliations: string[] = [
 ];
 
 export const reviewerService: string[] = [
+  "Agribusiness",
+  "Violence Against Women",
+  "Humanities and Social Sciences Communications",
   "Applied Economic Perspectives and Policy",
   "Oxford Bulletin of Economics and Statistics",
   "International Food and Agribusiness Management Review",
