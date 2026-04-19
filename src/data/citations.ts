@@ -40,4 +40,5 @@ export const paperCitations: PaperCitation[] = [
   { title: "Parental educational pairings and child physical abuse: Evidence from China", citations: 0, year: "2025", journal: "Intl J Edu Dev" },
   { title: "The 2021 container shipping crisis and its consequences for US agricultural exports", citations: 0, year: "2025", journal: "JTEP" },
   { title: "Trade implications of ending China's zero-Covid policy", citations: 0, year: "2025", journal: "Asian Econ Letters" },
+  { title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China", citations: 0, year: "Accepted", journal: "J. Rural Studies" },
 ];

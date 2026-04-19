@@ -8,6 +8,7 @@ import {
   affiliations,
   reviewerService,
 } from "@/data/experiences";
+import { invitedTalks, coauthoredPresentations } from "@/data/conferences";
 
 function Section({
   title,
@@ -67,6 +68,60 @@ export default function ExperiencesPage() {
                 <p className="text-xs text-text-muted font-mono mt-1">
                   {edu.location} · {edu.period}
                 </p>
+              </div>
+            </ScrollReveal>
+          ))}
+        </div>
+      </Section>
+
+      <Section title="Invited Conference Talks">
+        <div className="space-y-2">
+          {invitedTalks.map((t, i) => (
+            <ScrollReveal key={i} delay={i * 0.03}>
+              <div className="p-3 rounded border border-border bg-bg-surface/30 card-hover">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="flex-1 min-w-0">
+                    <p className="text-sm font-medium text-text-primary leading-snug">
+                      {t.title}
+                    </p>
+                    <p className="text-xs text-text-secondary mt-0.5">
+                      {t.venue}
+                    </p>
+                    <p className="text-xs text-text-muted font-mono mt-0.5">
+                      {t.location}
+                    </p>
+                  </div>
+                  <span className="tag px-2 py-0.5 rounded bg-bg-elevated text-text-muted border border-border whitespace-nowrap">
+                    {t.date}
+                  </span>
+                </div>
+              </div>
+            </ScrollReveal>
+          ))}
+        </div>
+      </Section>
+
+      <Section title="Coauthored Presentations">
+        <div className="space-y-2">
+          {coauthoredPresentations.map((t, i) => (
+            <ScrollReveal key={i} delay={i * 0.05}>
+              <div className="p-3 rounded border border-border bg-bg-surface/30 card-hover">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="flex-1 min-w-0">
+                    <p className="text-sm font-medium text-text-primary leading-snug">
+                      {t.title}
+                    </p>
+                    <p className="text-xs text-text-secondary mt-0.5">
+                      {t.venue}
+                    </p>
+                    <p className="text-xs text-text-muted font-mono mt-0.5">
+                      {t.location}
+                    </p>
+                  </div>
+                  <span className="tag px-2 py-0.5 rounded bg-bg-elevated text-text-muted border border-border whitespace-nowrap">
+                    {t.date}
+                  </span>
+                </div>
               </div>
             </ScrollReveal>
           ))}
