@@ -42,7 +42,7 @@ export default function Home() {
                 <div className="flex-shrink-0 hidden md:block">
                   <div className="relative">
                     <div className="w-20 h-20 rounded-full overflow-hidden border-2 border-border glow-green">
-                      <Image src="/images/shenghuo.jpg" alt="Xiting Zhuang" width={80} height={80} className="object-cover w-full h-full" priority />
+                      <Image src="/images/casual_head.jpeg" alt="Xiting Zhuang" width={80} height={80} className="object-cover w-full h-full" priority />
                     </div>
                     <span className="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-accent-green border-2 border-bg-primary animate-pulse" />
                   </div>
