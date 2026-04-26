@@ -7,11 +7,11 @@
   --color-bg-primary: #ffffff;
   --color-bg-surface: #f8f9fa;
   --color-bg-elevated: #f0f1f3;
-  --color-border: #e0e0e0;
-  --color-border-light: #ccc;
-  --color-text-primary: #1a1a1a;
-  --color-text-secondary: #555;
-  --color-text-muted: #999;
+  --color-border: #d1d5db;
+  --color-border-light: #b8bcc4;
+  --color-text-primary: #0a0a0a;
+  --color-text-secondary: #2a2a2a;
+  --color-text-muted: #5a5a5a;
 }
 
 .light body,
@@ -31,8 +31,10 @@
 .light .text-text-secondary { color: var(--color-text-secondary) !important; }
 .light .text-text-muted { color: var(--color-text-muted) !important; }
 .light .hover\:text-text-primary:hover { color: var(--color-text-primary) !important; }
+.light .hover\:text-text-secondary:hover { color: var(--color-text-secondary) !important; }
 .light .hover\:bg-white\/5:hover { background-color: rgba(0,0,0,0.05) !important; }
 .light .hover\:border-text-muted:hover { border-color: var(--color-text-muted) !important; }
+.light .text-text-muted\/50 { color: rgba(90,90,90,0.6) !important; }
 
 /* Light mode dot grid */
 .light .dot-grid {
