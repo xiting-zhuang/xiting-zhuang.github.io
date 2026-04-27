@@ -1,11 +1,26 @@
-# Xiting Zhuang - Personal Website
+# Xiting Zhuang — Personal Website
 
-Welcome to the official website of **Xiting Zhuang**.
+Source for <https://xiting-zhuang.github.io>.
 
-## Latest Updates and News
+Built with **Next.js 14** (App Router) + Tailwind + TypeScript, statically exported and deployed to GitHub Pages via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
 
-- **August 2023:** I am excited to announce the successful implementation and deployment of my personal website. You can explore it at [xiting-zhuang.github.io](http://xiting-zhuang.github.io). This project was inspired by [Hanlin Cai](https://github.com/GuangLun2000/GuangLun2000.github.io).
+## Local development
 
-## Statement
+```bash
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # static export to out/
+npm run lint
+```
 
-&copy; 2023 Xiting Zhuang. This website is proudly published using [GitHub Pages](https://pages.github.com/) and is powered by [Jekyll](https://jekyllrb.com/). The design is based on the [Minimal Mistakes](https://mademistakes.com/) theme as well as [Jason Ansel's site](https://github.com/jansel/jansel.github.io). If you're interested, the source code for this website is available [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+Node 20.
+
+## Editing content
+
+Content lives in [`src/data/*.ts`](src/data/) (publications, experiences, grants, projects, teaching, news, etc.). Pages in [`src/app/<route>/page.tsx`](src/app/) read from those files.
+
+See [CLAUDE.md](CLAUDE.md) for the full architecture and the live-vs-legacy file map.
+
+## Acknowledgements
+
+This site started as a Jekyll fork of [GuangLun2000/GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io) by Hanlin Cai, and was later rewritten in Next.js.

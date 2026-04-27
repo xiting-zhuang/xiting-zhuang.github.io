@@ -4,45 +4,82 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Jekyll-based academic personal website for Xiting Zhuang, hosted on GitHub Pages. Forked from [GuangLun2000/GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io).
+Academic personal website for Xiting Zhuang (Research Assistant Professor, NDSU), deployed to GitHub Pages at <https://xiting-zhuang.github.io>.
+
+The site was originally a Jekyll fork of [GuangLun2000/GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io), then migrated to **Next.js 14 (App Router) + Tailwind + TypeScript**, statically exported to `out/`.
+
+## What is live vs. what is legacy
+
+This is the most important thing to get right before editing.
+
+**Live (Next.js — edits here change the deployed site):**
+
+- `src/app/<route>/page.tsx` — pages (App Router)
+- `src/components/*.tsx` — shared UI (Header, Footer, Timeline, etc.)
+- `src/data/*.ts` — typed content (publications, experiences, grants, projects, teaching, news, citations, conferences, tradeflows)
+- `src/app/globals.css`, `tailwind.config.ts` — styling
+- `next.config.mjs`, `package.json`, `tsconfig.json`, `postcss.config.mjs`
+- `.github/workflows/deploy.yml` — the actual deploy pipeline
+- `public/` — static assets served at site root by Next
+- `images/`, `file/`, `mypaper/` — referenced from Next pages, still served as-is
+
+**Legacy (Jekyll — present in the repo but NOT deployed):**
+
+- `_config.yml`, `Gemfile`, `Gemfile.lock`
+- `_data/*.yml`, `_layouts/`, `_includes/`
+- Root-level `*.md` pages (`index.md`, `publications.md`, `experiences.md`, `projects.md`, `teaching.md`, `fundings.md`, `contact.md`, `blogs.md`)
+- `assets/css/style.scss`, `assets/css/modern.css`
+- `archive/`, `backup/`
+
+`.gitignore` explicitly labels the Jekyll outputs as "legacy". To update content (publications, experiences, grants, etc.), **edit `src/data/*.ts`, not `_data/*.yml`** — the YAML files are no longer wired to the deployed site. If a user asks for a content change, only touch the legacy files if they explicitly ask for the Jekyll version.
 
 ## Build & Development Commands
 
 ```bash
-bundle install          # Install Ruby dependencies
-jekyll serve            # Local dev server (http://localhost:4000)
-jekyll build            # Build static site to _site/
+npm install             # Install JS dependencies (use `npm ci` in CI)
+npm run dev             # Local dev server at http://localhost:3000
+npm run build           # Static export to out/
+npm run lint            # next lint
+npm start               # Serve a built app (rarely needed — site is static-exported)
 ```
 
-Ruby version: 3.1.6 (see `.ruby-version`).
+Node 20 in CI (see `deploy.yml`). No test suite exists.
 
 ## Architecture
 
-**Data-driven content model**: Pages don't hardcode content. Instead, structured data lives in `_data/*.yml` files, and Markdown pages use Liquid templates to render them.
+**Static export, not SSR.** `next.config.mjs` sets `output: "export"` because GitHub Pages cannot run Node. Consequences:
 
-- `_data/publications.yml` → `publications.md`
-- `_data/experiences.yml` → `experiences.md`
-- `_data/projects.yml` → `projects.md`
-- `_data/teaching.yml` → `teaching.md`
-- `_data/grants.yml` → `fundings.md`
-- `_data/news.yml` → rendered on homepage via `_layouts/home.html`
-- `_data/navigation.yml` → site-wide nav bar
+- No `getServerSideProps`, no API routes, no middleware, no ISR.
+- `images: { unoptimized: true }` — `next/image` works but does no optimization. Don't add features that depend on it.
+- All routes must be statically resolvable. Dynamic routes need `generateStaticParams`.
 
-**To update site content** (publications, projects, etc.), edit the corresponding `_data/*.yml` file — not the Markdown page.
+**Content model.** Page components import typed arrays/objects from `src/data/*.ts` and render them. The data files export both an `interface` and the data itself (see [src/data/publications.ts](src/data/publications.ts) for the pattern). Adding content = appending an entry to the relevant `.ts` file; adding a new content type = new `.ts` file + new section in the corresponding `src/app/<route>/page.tsx`.
 
-**Layout hierarchy**: `_layouts/default.html` is the base (includes nav, footer, head). Other layouts (`home.html`, `page.html`, `post.html`) extend it.
+**Layout.** [src/app/layout.tsx](src/app/layout.tsx) is the root: it loads Inter + JetBrains Mono via `next/font/google`, wraps every page in `<Header />` and `<Footer />`, and forces dark mode (`<html lang="en" className="dark">`).
 
-**Styling**: Dual CSS system — `assets/css/style.scss` (SCSS with variables/mixins) and `assets/css/modern.css` (CSS custom properties). Color palette: primary #2c3e50, secondary #3498db, accent #e67e22.
+**Styling.** Tailwind only; the design tokens live in [tailwind.config.ts](tailwind.config.ts):
 
-**Static files**: PDFs/documents in `file/`, research papers in `mypaper/`, images in `images/`.
+- Backgrounds: `bg-bg-primary` `#0a0a0a`, `bg-bg-surface` `#111`, `bg-bg-elevated` `#1a1a1a`
+- Text: `text-text-primary` `#f0f0f0`, `text-text-secondary` `#888`, `text-text-muted` `#555`
+- Accents: `accent-green` `#22c55e`, `accent-blue`, `accent-cyan`, `accent-orange`
+- Custom animations: `fade-in`, `slide-up`, `slide-in-left`, `glow`, `typing-cursor`
 
-**Blog posts**: Located in `blogs/` directory (primarily Chinese content).
+Use these tokens instead of hard-coded hex; the SCSS palette in the legacy Jekyll files (`#2c3e50`/`#3498db`/`#e67e22`) is unrelated and should not leak into Next code.
+
+**Path alias.** `@/*` → `src/*` (see `tsconfig.json`).
 
 ## Deployment
 
-Push to `main` branch → GitHub Pages auto-builds and deploys to https://xiting-zhuang.github.io.
+`git push origin main` triggers `.github/workflows/deploy.yml`:
 
-## Key Config
+1. `npm ci`
+2. `npm run build` (writes `out/`)
+3. Upload `out/` as a Pages artifact and deploy.
 
-- `_config.yml`: Site metadata, owner info, analytics (GA: G-T5N5JY1E21), Disqus comments, permalink structure
-- `Gemfile`: Uses `github-pages` gem with `jekyll-sitemap`, `jekyll-seo-tag`, `jekyll-feed` plugins
+There is no Jekyll build in the pipeline. The `_site/` directory, if present, is stale local output.
+
+## Conventions worth preserving
+
+- Keep typed `interface` exports next to the data they describe in `src/data/`.
+- Pages are server components by default; only mark `"use client"` when a component needs hooks/state (animations, theme toggle, etc.).
+- Don't introduce server-only Next features — they will break the static export.
