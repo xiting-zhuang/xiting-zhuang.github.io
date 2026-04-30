@@ -28,6 +28,13 @@ export const publications: Publication[] = [
     authors: "Zhiyong Dai, Weidong Tian, Minglin Wang, & Xiting Zhuang*",
   },
   {
+    title: "Bridging language and data: Transforming agricultural curricula for data analytics through linguistic insights",
+    year: "Accepted",
+    journal: "PLOS One",
+    authors:
+      "Zhihong Xu*, Jaehyun Ahn, Shuai Ma, Anjorin Ezekiel Adeyemi, Fahmida Husain Choudhury, Xiting Zhuang, Rafael Landaverde, & Gary J. Wingenbach",
+  },
+  {
     title: "U.S. public perceptions of food date labeling: Text mining and content analysis of USDA request for information (RFI) responses",
     year: "2026",
     journal: "Food Policy, 140, 103055",
@@ -142,11 +149,6 @@ export const workingPapers: WorkingPaper[] = [
     title: "Tradition or tragedy: Arranged marriages and domestic violence",
     authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
     status: "R&R at International Review of Law & Economics",
-  },
-  {
-    title: "Bridging language and data: Transforming agricultural curricula for data analytics through linguistic insights",
-    authors: "Zhihong Xu, Jaehyun Ahn, Shuai Ma, Anjorin Ezekiel Adeyemi, Fahmida Husain Choudhury, Xiting Zhuang, Rafael Landaverde, & Gary J. Wingenbach",
-    status: "R&R at PLOS One",
   },
   {
     title: "The gift of equality: Legal recognition of same-sex unions and elder abuse",
