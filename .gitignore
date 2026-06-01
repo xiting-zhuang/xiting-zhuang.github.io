@@ -12,3 +12,17 @@ node_modules/
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.idea/
+.vscode/
+
+# Synology Drive sync conflicts
+*.sync-conflict-*
+
+# LaTeX build artifacts
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
