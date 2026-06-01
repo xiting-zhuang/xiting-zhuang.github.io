@@ -83,7 +83,7 @@ export default function Home() {
             <div className="flex flex-col gap-4">
               <div className="grid grid-cols-3 gap-2">
                 <AnimatedCounter end={15} suffix="+" label="Papers" />
-                <AnimatedCounter end={91} label="Citations" />
+                <AnimatedCounter end={96} label="Citations" />
                 <AnimatedCounter end={5} label="h-index" />
               </div>
               <div className="flex-1 p-4 rounded border border-border bg-bg-surface/30">

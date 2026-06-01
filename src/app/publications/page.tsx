@@ -82,9 +82,20 @@ export default function PublicationsPage() {
           {workingPapers.map((paper, i) => (
             <ScrollReveal key={i} delay={i * 0.05}>
               <div className="p-4 rounded border border-border bg-bg-surface/30 group pub-item">
-                <span className="text-sm font-medium text-text-primary">
-                  {paper.title}
-                </span>
+                {paper.url ? (
+                  <a
+                    href={paper.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-sm font-medium text-text-primary hover:text-accent-green transition-colors"
+                  >
+                    {paper.title}
+                  </a>
+                ) : (
+                  <span className="text-sm font-medium text-text-primary">
+                    {paper.title}
+                  </span>
+                )}
                 <p className="text-xs text-text-secondary mt-1">
                   {paper.authors}
                 </p>

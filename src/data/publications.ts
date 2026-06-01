@@ -10,6 +10,7 @@ export interface WorkingPaper {
   title: string;
   authors: string;
   status?: string;
+  url?: string;
 }
 
 export interface PolicyBrief {
@@ -21,6 +22,12 @@ export interface PolicyBrief {
 }
 
 export const publications: Publication[] = [
+  {
+    title: "Tradition or tragedy: Arranged marriages and domestic violence",
+    year: "Accepted",
+    journal: "International Review of Law & Economics, 106343",
+    authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
+  },
   {
     title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China",
     year: "Accepted",
@@ -142,13 +149,14 @@ export const publications: Publication[] = [
 
 export const workingPapers: WorkingPaper[] = [
   {
-    title: "Tariff pass-through in the 2025 U.S.–China tariff increase",
-    authors: "Xiting Zhuang*, Sandro Steinbach, & Carlos Zurita",
+    title: "The cost of China's 2025 tariff retaliation for U.S. agriculture",
+    authors: "Xiting Zhuang*, Shawn Arita, & Sandro Steinbach",
+    status: "Technical report · NDSU Agricultural Trade Monitor 2026-05",
+    url: "https://www.capts-ndsu.com/_files/ugd/3c6228_53782e43f30d40c4b092b47016cab3c2.pdf",
   },
   {
-    title: "Tradition or tragedy: Arranged marriages and domestic violence",
-    authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
-    status: "R&R at International Review of Law & Economics",
+    title: "Tariff pass-through in the 2025 U.S.–China tariff increase",
+    authors: "Xiting Zhuang*, Sandro Steinbach, & Carlos Zurita",
   },
   {
     title: "The gift of equality: Legal recognition of same-sex unions and elder abuse",
@@ -173,6 +181,20 @@ export const workingPapers: WorkingPaper[] = [
 ];
 
 export const policyBriefs: PolicyBrief[] = [
+  {
+    title: "A one-year retrospective assessment of China's 2025/26 retaliatory tariffs on U.S. agricultural exports",
+    authors: "Shawn Arita, Sandro Steinbach, & Xiting Zhuang",
+    year: "2026",
+    outlet: "NDSU Agricultural Trade Monitor 2026-05",
+    url: "https://www.capts-ndsu.com/_files/ugd/3c6228_f69f40fb7983449b877db636a4cd1d6a.pdf",
+  },
+  {
+    title: "How IEEPA tariffs shaped U.S. biofuel feedstock imports in 2025",
+    authors: "Shawn Arita, Matthew Gammans, Jiyeon Kim, Sandro Steinbach, & Xiting Zhuang",
+    year: "2026",
+    outlet: "NDSU Agricultural Trade Monitor 2026-02",
+    url: "https://www.capts-ndsu.com/_files/ugd/3c6228_885c1fc31a9948d78c74988a7e039cd3.pdf",
+  },
   {
     title: "IEEPA fertilizer tariffs: Revenue, relief, and pass-through",
     authors: "Shawn Arita, Ruchira Chakravorty, Jiyeon Kim, Wint Lwin, Sandro Steinbach, Ming Wang, & Xiting Zhuang",
