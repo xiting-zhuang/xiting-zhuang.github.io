@@ -54,7 +54,7 @@ export default function Home() {
                     <span className="text-text-muted">// </span>North Dakota State University
                   </p>
                   <p className="text-sm text-text-secondary leading-relaxed mt-3 max-w-xl">
-                    I am a <span className="text-text-primary font-medium">Research Assistant Professor</span> investigating how <span className="text-text-primary font-medium">supply chain disruptions</span>, <span className="text-text-primary font-medium">trade policy</span>, and <span className="text-text-primary font-medium">economic shocks</span> affect agricultural markets and social outcomes. I draw on <span className="text-text-primary font-medium">causal inference</span>, <span className="text-text-primary font-medium">big data analytics</span>, and <span className="text-text-primary font-medium">text mining</span> to turn large-scale economic data into evidence that informs trade and social policy.
+                    I am a <span className="text-text-primary font-medium">Research Assistant Professor</span> investigating how <span className="text-text-primary font-medium">supply chain disruptions</span>, <span className="text-text-primary font-medium">trade policy</span>, and <span className="text-text-primary font-medium">economic shocks</span> affect agricultural markets and social outcomes. I draw on <span className="text-text-primary font-medium">causal inference</span> and <span className="text-text-primary font-medium">big data analytics</span> to turn large-scale economic data into evidence that informs trade and social policy.
                   </p>
                   <div className="font-mono text-xs mt-3">
                     <span className="text-text-muted">focus: </span>
