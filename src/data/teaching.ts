@@ -9,6 +9,13 @@ export interface TeachingEntry {
 export const teaching: TeachingEntry[] = [
   {
     role: "Guest Lecturer",
+    course: "AGEC 739 – Analytical Methods for Applied Economics",
+    institution: "North Dakota State University",
+    location: "Fargo, ND",
+    period: "Spring 2026",
+  },
+  {
+    role: "Guest Lecturer",
     course: "Econ 472/672 – International Trade",
     institution: "North Dakota State University",
     location: "Fargo, ND",

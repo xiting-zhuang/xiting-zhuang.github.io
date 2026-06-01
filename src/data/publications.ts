@@ -151,7 +151,7 @@ export const workingPapers: WorkingPaper[] = [
   {
     title: "The cost of China's 2025 tariff retaliation for U.S. agriculture",
     authors: "Xiting Zhuang*, Shawn Arita, & Sandro Steinbach",
-    status: "Technical report · NDSU Agricultural Trade Monitor 2026-05",
+    status: "Technical report",
     url: "https://www.capts-ndsu.com/_files/ugd/3c6228_53782e43f30d40c4b092b47016cab3c2.pdf",
   },
   {
