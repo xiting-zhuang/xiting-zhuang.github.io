@@ -36,6 +36,7 @@ export const paperCitations: PaperCitation[] = [
   { title: "U.S. public perceptions of food date labeling", citations: 0, year: "2026", journal: "Food Policy" },
   { title: "Machine learning-assisted abstract screening on learning analytics", citations: 0, year: "2026", journal: "Systematic Reviews" },
   { title: "Work environment and intimate partner violence against women: Evidence from China", citations: 0, year: "2025", journal: "Applied Economics" },
+  { title: "Tradition or tragedy: Arranged marriages and domestic violence", citations: 0, year: "2026", journal: "IRLE" },
   { title: "How IEEPA tariffs shaped U.S. biofuel feedstock imports in 2025", citations: 0, year: "2026", journal: "NDSU Trade Monitor" },
   { title: "Parental educational pairings and child physical abuse: Evidence from China", citations: 0, year: "2025", journal: "Intl J Edu Dev" },
   { title: "The 2021 container shipping crisis and its consequences for US agricultural exports", citations: 0, year: "2025", journal: "JTEP" },

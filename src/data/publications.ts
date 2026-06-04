@@ -24,9 +24,10 @@ export interface PolicyBrief {
 export const publications: Publication[] = [
   {
     title: "Tradition or tragedy: Arranged marriages and domestic violence",
-    year: "Accepted",
-    journal: "International Review of Law & Economics, 106343",
+    year: "2026",
+    journal: "International Review of Law & Economics, 87, 106343",
     authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
+    url: "https://doi.org/10.1016/j.irle.2026.106343",
   },
   {
     title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China",
