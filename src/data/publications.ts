@@ -25,7 +25,7 @@ export const publications: Publication[] = [
   {
     title: "Tradition or tragedy: Arranged marriages and domestic violence",
     year: "2026",
-    journal: "International Review of Law & Economics, 87, 106343",
+    journal: "International Review of Law and Economics, 87, 106343",
     authors: "Weidong Tian, Dongli Cao, & Xiting Zhuang*",
     url: "https://doi.org/10.1016/j.irle.2026.106343",
   },
