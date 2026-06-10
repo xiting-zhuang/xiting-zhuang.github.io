@@ -8,6 +8,7 @@ import { policyBriefs, publications } from "@/data/publications";
 import { paperCitations } from "@/data/citations";
 import { invitedTalks } from "@/data/conferences";
 import { coauthors } from "@/data/coauthors";
+import { mediaStories } from "@/data/media";
 
 const researchInterests = [
   "Causal Inference",
@@ -29,6 +30,10 @@ export default function Home() {
     });
 
   const featuredPolicy = policyBriefs.slice(0, 5);
+
+  const featuredMedia = mediaStories.flatMap((story) =>
+    story.mentions.filter((m) => m.featured)
+  );
 
   return (
     <div className="dot-grid">
@@ -176,23 +181,42 @@ export default function Home() {
       <section className="py-4 pb-8">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-            {/* Policy Briefs */}
-            <div className="p-4 rounded border border-border bg-bg-surface/30">
-              <div className="flex items-center justify-between mb-3">
-                <p className="font-mono text-xs text-accent-green uppercase tracking-wider">Policy & Outreach</p>
-                <Link href="/publications" className="font-mono text-[10px] text-text-muted hover:text-accent-green transition-colors">All briefs →</Link>
+            {/* Policy Briefs + Media */}
+            <div className="flex flex-col gap-4">
+              <div className="p-4 rounded border border-border bg-bg-surface/30">
+                <div className="flex items-center justify-between mb-3">
+                  <p className="font-mono text-xs text-accent-green uppercase tracking-wider">Policy & Outreach</p>
+                  <Link href="/publications" className="font-mono text-[10px] text-text-muted hover:text-accent-green transition-colors">All briefs →</Link>
+                </div>
+                <div className="space-y-1">
+                  {featuredPolicy.map((brief, i) => (
+                    <div key={i} className="py-2 border-b border-border/50 last:border-0 pub-item pl-2">
+                      {brief.url ? (
+                        <a href={brief.url} target="_blank" rel="noopener noreferrer" className="text-xs font-medium text-text-secondary hover:text-accent-green transition-colors leading-snug block">{brief.title}</a>
+                      ) : (
+                        <span className="text-xs font-medium text-text-secondary leading-snug block">{brief.title}</span>
+                      )}
+                      <p className="text-[10px] text-text-muted font-mono mt-0.5">{brief.outlet} · {brief.year}</p>
+                    </div>
+                  ))}
+                </div>
               </div>
-              <div className="space-y-1">
-                {featuredPolicy.map((brief, i) => (
-                  <div key={i} className="py-2 border-b border-border/50 last:border-0 pub-item pl-2">
-                    {brief.url ? (
-                      <a href={brief.url} target="_blank" rel="noopener noreferrer" className="text-xs font-medium text-text-secondary hover:text-accent-green transition-colors leading-snug block">{brief.title}</a>
-                    ) : (
-                      <span className="text-xs font-medium text-text-secondary leading-snug block">{brief.title}</span>
-                    )}
-                    <p className="text-[10px] text-text-muted font-mono mt-0.5">{brief.outlet} · {brief.year}</p>
-                  </div>
-                ))}
+
+              {/* In the Media */}
+              <div className="p-4 rounded border border-border bg-bg-surface/30">
+                <div className="flex items-center justify-between mb-3">
+                  <p className="font-mono text-xs text-accent-orange uppercase tracking-wider">In the Media</p>
+                  <Link href="/publications#media" className="font-mono text-[10px] text-text-muted hover:text-accent-orange transition-colors">All coverage →</Link>
+                </div>
+                <div className="space-y-1">
+                  {featuredMedia.map((m, i) => (
+                    <a key={i} href={m.url} target="_blank" rel="noopener noreferrer" className="block py-2 border-b border-border/50 last:border-0 pub-item pl-2 group">
+                      <span className="text-[10px] text-accent-orange font-mono">{m.outlet}</span>
+                      <span className="text-xs font-medium text-text-secondary group-hover:text-text-primary transition-colors leading-snug block mt-0.5">{m.title}</span>
+                      <span className="text-[10px] text-text-muted font-mono mt-0.5 block">{m.date}</span>
+                    </a>
+                  ))}
+                </div>
               </div>
             </div>
 

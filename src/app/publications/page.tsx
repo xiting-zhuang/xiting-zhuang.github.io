@@ -234,7 +234,7 @@ export default function PublicationsPage() {
       </div>
 
       {/* In the Media */}
-      <div className="mt-16">
+      <div id="media" className="mt-16 scroll-mt-20">
         <ScrollReveal>
           <h2 className="text-2xl font-bold mb-2">In the Media</h2>
           <div className="h-px bg-border mb-4" />

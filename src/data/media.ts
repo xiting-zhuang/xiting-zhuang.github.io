@@ -9,6 +9,8 @@ export interface MediaMention {
   title: string;
   date: string;
   url: string;
+  // Shown in the homepage "In the Media" block.
+  featured?: boolean;
 }
 
 export interface MediaStory {
@@ -29,12 +31,14 @@ export const mediaStories: MediaStory[] = [
           "New study peels back the whopping toll on American agriculture from the tariffs against China",
         date: "May 21, 2026",
         url: "https://finance.yahoo.com/economy/policy/articles/study-peels-back-whopping-toll-174808265.html",
+        featured: true,
       },
       {
         outlet: "AGDAILY",
         title: "New study: China tariffs cost U.S. ag $14.9 billion in lost exports",
         date: "May 21, 2026",
         url: "https://www.agdaily.com/crops/new-study-china-tariffs-cost-u-s-ag-14-9b-in-lost-exports/",
+        featured: true,
       },
       {
         outlet: "Farm Policy News (Univ. of Illinois)",
@@ -47,6 +51,7 @@ export const mediaStories: MediaStory[] = [
         title: "Report shows ag exports to China hit lowest level since 2007",
         date: "May 22, 2026",
         url: "https://www.dtnpf.com/agriculture/web/ag/blogs/ag-policy-blog/blog-post/2026/05/22/report-shows-ag-exports-china-hit",
+        featured: true,
       },
       {
         outlet: "Brownfield Ag News",
@@ -79,6 +84,7 @@ export const mediaStories: MediaStory[] = [
         title: "Study: 'Containergeddon' led to $2.1 billion loss in California ag exports",
         date: "January 5, 2022",
         url: "https://insidetrade.com/trade/study-%E2%80%98containergeddon%E2%80%99-led-21-billion-loss-california-ag-exports",
+        featured: true,
       },
       {
         outlet: "Fruit Growers News",
