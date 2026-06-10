@@ -1,12 +1,17 @@
 // Google Scholar data for Xiting Zhuang
-// Last updated: 2026-06-01
 // Source: https://scholar.google.com/citations?user=7DWbsPUAAAAJ
-// Update these numbers periodically from your Google Scholar profile
+//
+// Stats and citation counts auto-sync from scholar-live.ts, which is
+// regenerated daily by .github/workflows/update-scholar.yml. The curated
+// list below owns the journal abbreviations and which papers appear; its
+// citation numbers are only fallbacks for titles the sync cannot match.
+
+import { scholarLive } from "./scholar-live";
 
 export const scholarStats = {
-  hIndex: 5,
-  totalCitations: 96,
-  i10Index: 3,
+  hIndex: scholarLive.stats.hIndex,
+  totalCitations: scholarLive.stats.totalCitations,
+  i10Index: scholarLive.stats.i10Index,
 };
 
 export interface PaperCitation {
@@ -16,7 +21,7 @@ export interface PaperCitation {
   journal: string;
 }
 
-export const paperCitations: PaperCitation[] = [
+const curatedPapers: PaperCitation[] = [
   { title: "Supply chain disruptions and containerized agricultural exports from California ports", citations: 32, year: "2023", journal: "AEPP" },
   { title: "U.S. agricultural exports and the 2022 Mississippi River drought", citations: 16, year: "2025", journal: "Agribusiness" },
   { title: "Containergeddon and California Agriculture", citations: 11, year: "2021", journal: "ARE Update" },
@@ -43,3 +48,19 @@ export const paperCitations: PaperCitation[] = [
   { title: "Trade implications of ending China's zero-Covid policy", citations: 0, year: "2025", journal: "Asian Econ Letters" },
   { title: "The call of kinship: How clan culture shapes rural residents' commitment to hometown development in China", citations: 0, year: "Accepted", journal: "J. Rural Studies" },
 ];
+
+// Strip everything but letters/digits so "U.S." and "US" normalize alike.
+const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
+
+const livePapers = scholarLive.papers.map((p) => ({
+  ...p,
+  key: normalize(p.title),
+}));
+
+export const paperCitations: PaperCitation[] = curatedPapers.map((paper) => {
+  const key = normalize(paper.title);
+  const match = livePapers.find(
+    (p) => p.key.startsWith(key.slice(0, 40)) || key.startsWith(p.key.slice(0, 40))
+  );
+  return match ? { ...paper, citations: match.citations } : paper;
+});

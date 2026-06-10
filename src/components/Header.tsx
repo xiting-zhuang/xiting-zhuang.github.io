@@ -13,7 +13,7 @@ const links = [
   { href: "/teaching", label: "Teaching" },
   { href: "/experiences", label: "Experiences" },
   { href: "/contact", label: "Contact" },
-  { href: "/file/XitingZhuang-Resume.pdf", label: "CV", external: true },
+  { href: "/file/XitingZhuang-CV.pdf", label: "CV", external: true },
 ];
 
 export default function Header() {

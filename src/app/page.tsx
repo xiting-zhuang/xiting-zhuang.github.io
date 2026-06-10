@@ -8,6 +8,7 @@ import Timeline from "@/components/Timeline";
 import CitationTicker from "@/components/CitationTicker";
 import { policyBriefs, publications } from "@/data/publications";
 import { paperCitations } from "@/data/citations";
+import { invitedTalks } from "@/data/conferences";
 
 const researchInterests = [
   "Causal Inference",
@@ -62,7 +63,7 @@ export default function Home() {
                   </div>
                   <div className="flex flex-wrap items-center gap-2 mt-4">
                     <Link href="/publications" className="px-3 py-1.5 bg-accent-green/10 text-accent-green border border-accent-green/30 rounded font-mono text-xs hover:bg-accent-green/20 transition-all">Publications</Link>
-                    <a href="/file/XitingZhuang-Resume.pdf" target="_blank" className="px-3 py-1.5 border border-border text-text-secondary rounded font-mono text-xs hover:text-text-primary transition-all">CV</a>
+                    <a href="/file/XitingZhuang-CV.pdf" target="_blank" className="px-3 py-1.5 border border-border text-text-secondary rounded font-mono text-xs hover:text-text-primary transition-all">CV</a>
                     <a href="mailto:xiting.zhuang@ndsu.edu" className="px-3 py-1.5 border border-border text-text-secondary rounded font-mono text-xs hover:text-text-primary transition-all">Contact</a>
                     <span className="text-border">|</span>
                     <a href="https://scholar.google.com/citations?user=7DWbsPUAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" className="text-text-muted hover:text-accent-green transition-colors" aria-label="Google Scholar">
@@ -82,9 +83,9 @@ export default function Home() {
             {/* Stats sidebar — 1 col */}
             <div className="flex flex-col gap-4">
               <div className="grid grid-cols-3 gap-2">
-                <AnimatedCounter end={15} suffix="+" label="Papers" />
-                <AnimatedCounter end={96} label="Citations" />
-                <AnimatedCounter end={5} label="h-index" />
+                <AnimatedCounter end={publications.length} suffix="+" label="Papers" />
+                <AnimatedCounter end={policyBriefs.length} suffix="+" label="Policy Briefs" />
+                <AnimatedCounter end={invitedTalks.length} label="Invited Talks" />
               </div>
               <div className="flex-1 p-4 rounded border border-border bg-bg-surface/30">
                 <p className="font-mono text-[10px] text-text-muted uppercase tracking-wider mb-3">Research Areas</p>

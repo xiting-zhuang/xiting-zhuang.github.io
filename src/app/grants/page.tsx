@@ -33,12 +33,14 @@ export default function GrantsPage() {
                   <span className="text-text-muted">Role</span>
                   <p className="text-text-secondary font-medium">{grant.role}</p>
                 </div>
-                <div>
-                  <span className="text-text-muted">Amount</span>
-                  <p className="text-text-secondary font-medium font-mono">
-                    {grant.amount}
-                  </p>
-                </div>
+                {grant.amount && (
+                  <div>
+                    <span className="text-text-muted">Amount</span>
+                    <p className="text-text-secondary font-medium font-mono">
+                      {grant.amount}
+                    </p>
+                  </div>
+                )}
                 <div>
                   <span className="text-text-muted">Period</span>
                   <p className="text-text-secondary font-medium">
