@@ -43,11 +43,11 @@ export const publications: Publication[] = [
       "Zhihong Xu*, Jaehyun Ahn, Shuai Ma, Anjorin Ezekiel Adeyemi, Fahmida Husain Choudhury, Xiting Zhuang, Rafael Landaverde, & Gary J. Wingenbach",
   },
   {
-    title: "U.S. public perceptions of food date labeling: Text mining and content analysis of USDA request for information (RFI) responses",
+    title: "Public perspectives on food date labeling: Implications for waste reduction and food safety policy",
     year: "2026",
     journal: "Food Policy, 140, 103055",
     authors: "Peng Lu, Lulu Mao, Xiting Zhuang, Zhihong Xu, & Shuai Ma",
-    url: "https://www.sciencedirect.com/science/article/abs/pii/S0306919226000229",
+    url: "https://doi.org/10.1016/j.foodpol.2026.103055",
   },
   {
     title: "Machine learning-assisted abstract screening on learning analytics: A step-by-step tutorial",

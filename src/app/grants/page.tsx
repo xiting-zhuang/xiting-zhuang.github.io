@@ -1,5 +1,3 @@
-"use client";
-
 import ScrollReveal from "@/components/ScrollReveal";
 import { grants } from "@/data/grants";
 

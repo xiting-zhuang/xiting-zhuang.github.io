@@ -95,6 +95,21 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Reduced motion: kill CSS animations/transitions wholesale; JS-driven
+   animations check the same media query via useReducedMotion. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
 /* Theme transition */
 html, body, header, footer, main, nav {
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;

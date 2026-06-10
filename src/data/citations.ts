@@ -38,7 +38,7 @@ const curatedPapers: PaperCitation[] = [
   { title: "Machine learning-assisted systematic review: A case study in learning analytics", citations: 1, year: "2025", journal: "Education Sciences" },
   { title: "Retaliatory tariffs and container shipping disruptions — California's almond industry", citations: 1, year: "2023", journal: "Choices" },
   { title: "A portrait of firms that trade in meat products", citations: 1, year: "2022", journal: "WEF" },
-  { title: "U.S. public perceptions of food date labeling", citations: 0, year: "2026", journal: "Food Policy" },
+  { title: "Public perspectives on food date labeling", citations: 0, year: "2026", journal: "Food Policy" },
   { title: "Machine learning-assisted abstract screening on learning analytics", citations: 0, year: "2026", journal: "Systematic Reviews" },
   { title: "Work environment and intimate partner violence against women: Evidence from China", citations: 0, year: "2025", journal: "Applied Economics" },
   { title: "Tradition or tragedy: Arranged marriages and domestic violence", citations: 0, year: "2026", journal: "IRLE" },

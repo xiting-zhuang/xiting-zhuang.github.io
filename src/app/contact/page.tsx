@@ -1,5 +1,3 @@
-"use client";
-
 import ScrollReveal from "@/components/ScrollReveal";
 
 const contacts = [
@@ -20,6 +18,12 @@ const contacts = [
     value: "Scholar Profile",
     href: "https://scholar.google.com/citations?user=7DWbsPUAAAAJ&hl=en",
     icon: "🎓",
+  },
+  {
+    label: "ORCID",
+    value: "0009-0005-4852-6903",
+    href: "https://orcid.org/0009-0005-4852-6903",
+    icon: "🆔",
   },
   {
     label: "LinkedIn",

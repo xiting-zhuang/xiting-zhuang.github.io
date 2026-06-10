@@ -2,11 +2,13 @@
 
 import { useState, useEffect, useRef } from "react";
 import { scholarStats, paperCitations } from "@/data/citations";
+import useReducedMotion from "@/lib/useReducedMotion";
 
 function AnimatedNumber({ end, duration = 1500 }: { end: number; duration?: number }) {
   const [count, setCount] = useState(0);
   const [started, setStarted] = useState(false);
   const ref = useRef<HTMLSpanElement>(null);
+  const reduced = useReducedMotion();
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -19,6 +21,10 @@ function AnimatedNumber({ end, duration = 1500 }: { end: number; duration?: numb
 
   useEffect(() => {
     if (!started) return;
+    if (reduced) {
+      setCount(end);
+      return;
+    }
     const start = Date.now();
     const timer = setInterval(() => {
       const p = Math.min((Date.now() - start) / duration, 1);
@@ -26,25 +32,27 @@ function AnimatedNumber({ end, duration = 1500 }: { end: number; duration?: numb
       if (p >= 1) clearInterval(timer);
     }, 16);
     return () => clearInterval(timer);
-  }, [started, end, duration]);
+  }, [started, end, duration, reduced]);
 
   return <span ref={ref}>{count}</span>;
 }
 
 export default function CitationTicker() {
   const [activeIndex, setActiveIndex] = useState(0);
+  const reduced = useReducedMotion();
   const sorted = [...paperCitations].sort((a, b) => b.citations - a.citations);
   const totalCitations = scholarStats.totalCitations || sorted.reduce((s, p) => s + p.citations, 0);
   const maxCitations = sorted[0]?.citations || 1;
   const active = sorted[activeIndex % sorted.length];
 
-  // Auto-cycle
+  // Auto-cycle (manual clicks still work when motion is reduced)
   useEffect(() => {
+    if (reduced) return;
     const timer = setInterval(() => {
       setActiveIndex((prev) => (prev + 1) % sorted.length);
     }, 3000);
     return () => clearInterval(timer);
-  }, [sorted.length]);
+  }, [sorted.length, reduced]);
 
   return (
     <div className="rounded border border-border bg-bg-surface/30 overflow-hidden">

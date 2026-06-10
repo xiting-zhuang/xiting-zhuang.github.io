@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import useReducedMotion from "@/lib/useReducedMotion";
 
 interface AnimatedCounterProps {
   end: number;
@@ -20,6 +21,7 @@ export default function AnimatedCounter({
   const [count, setCount] = useState(0);
   const [started, setStarted] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
+  const reduced = useReducedMotion();
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -37,6 +39,10 @@ export default function AnimatedCounter({
 
   useEffect(() => {
     if (!started) return;
+    if (reduced) {
+      setCount(end);
+      return;
+    }
     const startTime = Date.now();
     const timer = setInterval(() => {
       const elapsed = Date.now() - startTime;
@@ -47,7 +53,7 @@ export default function AnimatedCounter({
       if (progress >= 1) clearInterval(timer);
     }, 16);
     return () => clearInterval(timer);
-  }, [started, end, duration]);
+  }, [started, end, duration, reduced]);
 
   return (
     <div ref={ref} className="text-center p-6 rounded border border-border bg-bg-surface/30 card-hover">

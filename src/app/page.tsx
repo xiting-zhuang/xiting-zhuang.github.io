@@ -1,5 +1,3 @@
-"use client";
-
 import Image from "next/image";
 import Link from "next/link";
 import TypeWriter from "@/components/TypeWriter";
@@ -9,6 +7,7 @@ import CitationTicker from "@/components/CitationTicker";
 import { policyBriefs, publications } from "@/data/publications";
 import { paperCitations } from "@/data/citations";
 import { invitedTalks } from "@/data/conferences";
+import { coauthors } from "@/data/coauthors";
 
 const researchInterests = [
   "Causal Inference",
@@ -152,17 +151,7 @@ export default function Home() {
                 <span className="font-mono text-[10px] text-text-muted">8+ institutions</span>
               </div>
               <div className="space-y-1">
-                {[
-                  { name: "Sandro Steinbach", inst: "NDSU", papers: 10, role: "Supply Chain · Trade" },
-                  { name: "Colin A. Carter", inst: "UC Davis", papers: 3, role: "Container Shipping · Ag Exports" },
-                  { name: "Weidong Tian", inst: "SWUFE", papers: 5, role: "Domestic Violence · Social Issues" },
-                  { name: "Zhiyong Dai", inst: "SWUFE", papers: 2, role: "Social Issues · Rural Development" },
-                  { name: "Zhihong Xu", inst: "Texas A&M", papers: 3, role: "ML · Systematic Reviews" },
-                  { name: "Shawn Arita", inst: "NDSU/ARPC", papers: 7, role: "Trade Monitor · Tariffs" },
-                  { name: "Peng Lu", inst: "UGA", papers: 1, role: "Food Policy · Text Mining" },
-                  { name: "Heidi Schweizer", inst: "NC State", papers: 1, role: "Meat Trade · Firm Analysis" },
-                  { name: "Raghav Goyal", inst: "LSU", papers: 2, role: "Climate · Trade Disruptions" },
-                ].map((c, i) => (
+                {coauthors.map((c, i) => (
                   <div key={i} className="flex items-center justify-between py-1.5 border-b border-border/50 last:border-0 group">
                     <div className="flex items-center gap-2">
                       <span className="w-1.5 h-1.5 rounded-full bg-purple-500/60 group-hover:bg-purple-500 transition-colors" />

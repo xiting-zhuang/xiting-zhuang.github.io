@@ -74,6 +74,7 @@ const personJsonLd = {
   email: "mailto:xiting.zhuang@ndsu.edu",
   sameAs: [
     "https://scholar.google.com/citations?user=7DWbsPUAAAAJ",
+    "https://orcid.org/0009-0005-4852-6903",
     "https://www.linkedin.com/in/xiting-zhuang",
     "https://github.com/xiting-zhuang",
   ],
@@ -109,6 +110,13 @@ export default function RootLayout({
         <Header />
         <main className="pt-14 min-h-screen">{children}</main>
         <Footer />
+        {/* Privacy-friendly analytics (no cookies). Requires the
+            "xitingzhuang" site code to be registered at goatcounter.com. */}
+        <script
+          data-goatcounter="https://xitingzhuang.goatcounter.com/count"
+          async
+          src="https://gc.zgo.at/count.js"
+        />
       </body>
     </html>
   );

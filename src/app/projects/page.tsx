@@ -1,5 +1,3 @@
-"use client";
-
 import ScrollReveal from "@/components/ScrollReveal";
 import { showcaseItems, showcaseMethods, showcaseThemes } from "@/data/projects";
 
