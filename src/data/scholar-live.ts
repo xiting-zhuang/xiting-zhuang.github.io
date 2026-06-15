@@ -9,7 +9,7 @@ export interface ScholarLivePaper {
 
 export const scholarLive = {
   stats: {
-    totalCitations: 98,
+    totalCitations: 99,
     hIndex: 5,
     i10Index: 3,
   },
@@ -21,7 +21,7 @@ export const scholarLive = {
   },
   {
     title: "US agricultural exports and the 2022 Mississippi River drought",
-    citations: 16,
+    citations: 17,
     year: "2025"
   },
   {
@@ -93,6 +93,11 @@ export const scholarLive = {
     title: "A Portrait of Firms that Trade in Meat Products",
     citations: 1,
     year: "2022"
+  },
+  {
+    title: "Tradition or tragedy: Arranged marriages and domestic violence",
+    citations: 0,
+    year: "2026"
   },
   {
     title: "Bridging language and data: Transforming agricultural curricula for data analytics through linguistic insights",
@@ -203,11 +208,6 @@ export const scholarLive = {
     title: "中国产出缺口对通货膨胀的影响研究",
     citations: 0,
     year: "2017"
-  },
-  {
-    title: "Tradition or Tragedy Arranged Marriages and Domestic Violence",
-    citations: 0,
-    year: ""
   },
   {
     title: "Global Supply Chain and Domestic Trade Shocks",
