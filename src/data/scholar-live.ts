@@ -9,7 +9,7 @@ export interface ScholarLivePaper {
 
 export const scholarLive = {
   stats: {
-    totalCitations: 99,
+    totalCitations: 103,
     hIndex: 5,
     i10Index: 3,
   },
