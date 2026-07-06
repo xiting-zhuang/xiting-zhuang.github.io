@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import TypeWriter from "@/components/TypeWriter";
 import AnimatedCounter from "@/components/AnimatedCounter";
-import Timeline from "@/components/Timeline";
 import CitationTicker from "@/components/CitationTicker";
 import { policyBriefs, publications } from "@/data/publications";
 import { paperCitations } from "@/data/citations";
@@ -177,12 +176,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ===== ROW 4: Policy Briefs + Timeline ===== */}
+      {/* ===== ROW 4: Policy Briefs + Media ===== */}
       <section className="py-4 pb-8">
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
-            {/* Policy Briefs + Media */}
-            <div className="flex flex-col gap-4">
+            {/* Policy Briefs */}
               <div className="p-4 rounded border border-border bg-bg-surface/30">
                 <div className="flex items-center justify-between mb-3">
                   <p className="font-mono text-xs text-accent-green uppercase tracking-wider">Policy & Outreach</p>
@@ -218,13 +216,6 @@ export default function Home() {
                   ))}
                 </div>
               </div>
-            </div>
-
-            {/* Timeline */}
-            <div className="p-4 rounded border border-border bg-bg-surface/30">
-              <p className="font-mono text-xs text-accent-green uppercase tracking-wider mb-4">Timeline</p>
-              <Timeline />
-            </div>
           </div>
         </div>
       </section>
