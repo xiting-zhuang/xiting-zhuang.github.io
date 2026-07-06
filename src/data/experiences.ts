@@ -8,6 +8,7 @@ export interface Experience {
 export interface Education {
   degree: string;
   institution: string;
+  department?: string;
   location: string;
   period: string;
 }
@@ -37,30 +38,35 @@ export const education: Education[] = [
   {
     degree: "Ph.D. in Agricultural and Resource Economics",
     institution: "University of Connecticut",
+    department: "Department of Agricultural & Resource Economics",
     location: "Storrs, CT",
     period: "2018 – 2024",
   },
   {
     degree: "M.S. in Computer Science (current)",
     institution: "Georgia Institute of Technology",
+    department: "College of Computing",
     location: "Atlanta, GA",
     period: "2020 – Present",
   },
   {
     degree: "M.S. in Applied and Resource Economics",
     institution: "University of Connecticut",
+    department: "Department of Agricultural & Resource Economics",
     location: "Storrs, CT",
     period: "2017 – 2018",
   },
   {
     degree: "M.S. in Quantitative Economics",
     institution: "Fuzhou University",
+    department: "School of Economics & Management",
     location: "Fuzhou, China",
     period: "2014 – 2017",
   },
   {
     degree: "B.A. in Accounting",
-    institution: "Xiamen University, Tan Kah Kee College",
+    institution: "Xiamen University",
+    department: "Tan Kah Kee College",
     location: "Xiamen, China",
     period: "2010 – 2014",
   },
