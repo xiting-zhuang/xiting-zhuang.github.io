@@ -62,12 +62,8 @@ export default function ExperiencesPage() {
                 <p className="font-medium text-text-primary">{edu.degree}</p>
                 <p className="text-sm text-text-secondary">
                   {edu.institution}
+                  {edu.department && `, ${edu.department}`}
                 </p>
-                {edu.department && (
-                  <p className="text-xs text-text-secondary">
-                    {edu.department}
-                  </p>
-                )}
                 <p className="text-xs text-text-muted font-mono mt-1">
                   {edu.location} · {edu.period}
                 </p>
