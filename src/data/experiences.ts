@@ -40,7 +40,7 @@ export const education: Education[] = [
     institution: "University of Connecticut",
     department: "Department of Agricultural & Resource Economics",
     location: "Storrs, CT",
-    period: "2018 – 2024",
+    period: "2017 – 2024",
   },
   {
     degree: "M.S. in Computer Science (current)",
@@ -48,13 +48,6 @@ export const education: Education[] = [
     department: "College of Computing",
     location: "Atlanta, GA",
     period: "2020 – Present",
-  },
-  {
-    degree: "M.S. in Applied and Resource Economics",
-    institution: "University of Connecticut",
-    department: "Department of Agricultural & Resource Economics",
-    location: "Storrs, CT",
-    period: "2017 – 2018",
   },
   {
     degree: "M.S. in Quantitative Economics",
