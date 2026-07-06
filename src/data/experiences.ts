@@ -43,7 +43,7 @@ export const education: Education[] = [
     period: "2017 – 2024",
   },
   {
-    degree: "M.S. in Applied and Resource Economics",
+    degree: "M.S. in Applied and Resource Economics (en route to Ph.D.)",
     institution: "University of Connecticut",
     department: "Department of Agricultural & Resource Economics",
     location: "Storrs, CT",
