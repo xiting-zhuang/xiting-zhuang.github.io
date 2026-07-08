@@ -9,7 +9,7 @@ export interface ScholarLivePaper {
 
 export const scholarLive = {
   stats: {
-    totalCitations: 103,
+    totalCitations: 104,
     hIndex: 5,
     i10Index: 3,
   },
@@ -21,7 +21,7 @@ export const scholarLive = {
   },
   {
     title: "US agricultural exports and the 2022 Mississippi River drought",
-    citations: 17,
+    citations: 18,
     year: "2025"
   },
   {
@@ -65,6 +65,11 @@ export const scholarLive = {
     year: "2023"
   },
   {
+    title: "A One-Year Retrospective Assessment of China’s 2025/26 Retaliatory Tariffs on US Agricultural Exports",
+    citations: 2,
+    year: "2026"
+  },
+  {
     title: "IEEPA Fertilizer Tariffs: Revenue, Relief, and Pass-Through",
     citations: 2,
     year: "2026"
@@ -80,7 +85,17 @@ export const scholarLive = {
     year: "2022"
   },
   {
+    title: "Tradition or tragedy: Arranged marriages and domestic violence",
+    citations: 1,
+    year: "2026"
+  },
+  {
     title: "Machine Learning-Assisted Systematic Review: A Case Study in Learning Analytics",
+    citations: 1,
+    year: "2025"
+  },
+  {
+    title: "Supreme Court, Food and Input Tariff Relief, and Market Access Opportunities Through Recent Trade Deals",
     citations: 1,
     year: "2025"
   },
@@ -95,17 +110,7 @@ export const scholarLive = {
     year: "2022"
   },
   {
-    title: "Tradition or tragedy: Arranged marriages and domestic violence",
-    citations: 0,
-    year: "2026"
-  },
-  {
     title: "Bridging language and data: Transforming agricultural curricula for data analytics through linguistic insights",
-    citations: 0,
-    year: "2026"
-  },
-  {
-    title: "A One-Year Retrospective Assessment of China’s 2025/26 Retaliatory Tariffs on US Agricultural Exports",
     citations: 0,
     year: "2026"
   },
@@ -116,6 +121,11 @@ export const scholarLive = {
   },
   {
     title: "Public perspectives on food date labeling: implications for waste reduction and food safety policy",
+    citations: 0,
+    year: "2026"
+  },
+  {
+    title: "NDSU Agricultural Trade Monitor",
     citations: 0,
     year: "2026"
   },
@@ -165,17 +175,7 @@ export const scholarLive = {
     year: "2025"
   },
   {
-    title: "NDSU Agricultural Trade Monitor",
-    citations: 0,
-    year: "2025"
-  },
-  {
     title: "The 2021 Container Shipping Crisis and its Consequences for US Agricultural Exports",
-    citations: 0,
-    year: "2025"
-  },
-  {
-    title: "Supreme Court, Food and Input Tariff Relief, and Market Access Opportunities Through Recent Trade Deals",
     citations: 0,
     year: "2025"
   },
