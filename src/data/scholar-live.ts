@@ -65,6 +65,11 @@ export const scholarLive = {
     year: "2023"
   },
   {
+    title: "Tradition or tragedy: Arranged marriages and domestic violence",
+    citations: 2,
+    year: "2026"
+  },
+  {
     title: "A One-Year Retrospective Assessment of China’s 2025/26 Retaliatory Tariffs on US Agricultural Exports",
     citations: 2,
     year: "2026"
@@ -85,17 +90,7 @@ export const scholarLive = {
     year: "2022"
   },
   {
-    title: "Tradition or tragedy: Arranged marriages and domestic violence",
-    citations: 1,
-    year: "2026"
-  },
-  {
     title: "Machine Learning-Assisted Systematic Review: A Case Study in Learning Analytics",
-    citations: 1,
-    year: "2025"
-  },
-  {
-    title: "Supreme Court, Food and Input Tariff Relief, and Market Access Opportunities Through Recent Trade Deals",
     citations: 1,
     year: "2025"
   },
@@ -176,6 +171,11 @@ export const scholarLive = {
   },
   {
     title: "The 2021 Container Shipping Crisis and its Consequences for US Agricultural Exports",
+    citations: 0,
+    year: "2025"
+  },
+  {
+    title: "Supreme Court, Food and Input Tariff Relief, and Market Access Opportunities Through Recent Trade Deals",
     citations: 0,
     year: "2025"
   },
