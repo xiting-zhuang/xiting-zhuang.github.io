@@ -9,7 +9,7 @@ export interface ScholarLivePaper {
 
 export const scholarLive = {
   stats: {
-    totalCitations: 104,
+    totalCitations: 107,
     hIndex: 5,
     i10Index: 3,
   },
@@ -21,7 +21,7 @@ export const scholarLive = {
   },
   {
     title: "US agricultural exports and the 2022 Mississippi River drought",
-    citations: 18,
+    citations: 20,
     year: "2025"
   },
   {
@@ -90,6 +90,11 @@ export const scholarLive = {
     year: "2022"
   },
   {
+    title: "Public perspectives on food date labeling: implications for waste reduction and food safety policy",
+    citations: 1,
+    year: "2026"
+  },
+  {
     title: "Machine Learning-Assisted Systematic Review: A Case Study in Learning Analytics",
     citations: 1,
     year: "2025"
@@ -111,11 +116,6 @@ export const scholarLive = {
   },
   {
     title: "The call of Kinship: How Clan culture shapes rural residents’ commitment to hometown development in China",
-    citations: 0,
-    year: "2026"
-  },
-  {
-    title: "Public perspectives on food date labeling: implications for waste reduction and food safety policy",
     citations: 0,
     year: "2026"
   },
