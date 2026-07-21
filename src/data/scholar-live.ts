@@ -170,6 +170,21 @@ export const scholarLive = {
     year: "2025"
   },
   {
+    title: "Machine Learning Assisted Abstract Screening for a Systematic Review on Learning Analytics in Higher Education: A Step-by-step Tutorial",
+    citations: 0,
+    year: "2025"
+  },
+  {
+    title: "Systematic Mapping of Threats to U.S. Beef Production",
+    citations: 0,
+    year: "2025"
+  },
+  {
+    title: "Evaluating ChatGPT for Abstract Screening in Systematic Reviews: A Case Study on the Beef Production Risk",
+    citations: 0,
+    year: "2025"
+  },
+  {
     title: "The 2021 Container Shipping Crisis and its Consequences for US Agricultural Exports",
     citations: 0,
     year: "2025"
